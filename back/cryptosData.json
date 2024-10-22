@@ -3,91 +3,91 @@
     "shortName": "BTC-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
     "longName": "Bitcoin USD",
-    "price": "67,600.92"
+    "price": "67,579.25"
   },
   {
     "shortName": "ETH-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
     "longName": "Ethereum USD",
-    "price": "2,632.53"
+    "price": "2,635.86"
   },
   {
     "shortName": "USDT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
     "longName": "Tether USDt USD",
-    "price": "0.999392"
+    "price": "0.999371"
   },
   {
     "shortName": "BNB-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
     "longName": "BNB USD",
-    "price": "595.77"
+    "price": "594.99"
   },
   {
     "shortName": "SOL-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png",
     "longName": "Solana USD",
-    "price": "168.15"
+    "price": "168.23"
   },
   {
     "shortName": "USDC-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
     "longName": "USD Coin USD",
-    "price": "0.999876"
+    "price": "0.999825"
   },
   {
     "shortName": "XRP-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
     "longName": "XRP USD",
-    "price": "0.534113"
+    "price": "0.534977"
   },
   {
     "shortName": "STETH-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8085.png",
     "longName": "Lido Staked ETH USD",
-    "price": "2,636.55"
+    "price": "2,635.04"
   },
   {
     "shortName": "DOGE-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png",
     "longName": "Dogecoin USD",
-    "price": "0.140390"
+    "price": "0.140339"
   },
   {
     "shortName": "WTRX-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/18579.png",
     "longName": "Wrapped TRON USD",
-    "price": "0.160210"
+    "price": "0.160217"
   },
   {
     "shortName": "TRX-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png",
     "longName": "TRON USD",
-    "price": "0.160571"
+    "price": "0.160576"
   },
   {
     "shortName": "TON11419-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/11419.png",
     "longName": "Toncoin USD",
-    "price": "5.2347"
+    "price": "5.2369"
   },
   {
     "shortName": "ADA-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png",
     "longName": "Cardano USD",
-    "price": "0.364946"
+    "price": "0.365445"
   },
   {
     "shortName": "WSTETH-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/12409.png",
     "longName": "Lido wstETH USD",
-    "price": "3,112.12"
+    "price": "3,112.15"
   },
   {
     "shortName": "AVAX-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png",
     "longName": "Avalanche USD",
-    "price": "27.67"
+    "price": "27.65"
   },
   {
     "shortName": "SHIB-USD",
@@ -99,55 +99,55 @@
     "shortName": "WBTC-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png",
     "longName": "Wrapped Bitcoin USD",
-    "price": "67,419.63"
+    "price": "67,435.19"
   },
   {
     "shortName": "WETH-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2396.png",
     "longName": "WETH USD",
-    "price": "2,631.72"
+    "price": "2,632.31"
   },
   {
     "shortName": "LINK-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png",
     "longName": "Chainlink USD",
-    "price": "12.07"
+    "price": "12.09"
   },
   {
     "shortName": "BCH-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png",
     "longName": "Bitcoin Cash USD",
-    "price": "357.56"
+    "price": "357.89"
   },
   {
     "shortName": "DOT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png",
     "longName": "Polkadot USD",
-    "price": "4.3341"
+    "price": "4.3358"
   },
   {
     "shortName": "NEAR-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6535.png",
     "longName": "NEAR Protocol USD",
-    "price": "4.7018"
+    "price": "4.7026"
   },
   {
     "shortName": "LEO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3957.png",
     "longName": "UNUS SED LEO USD",
-    "price": "5.9956"
+    "price": "5.9906"
   },
   {
     "shortName": "DAI-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png",
     "longName": "Dai USD",
-    "price": "0.999804"
+    "price": "0.999704"
   },
   {
     "shortName": "SUI20947-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/20947.png",
     "longName": "Sui USD",
-    "price": "1.9498"
+    "price": "1.9473"
   },
   {
     "shortName": "APT21794-USD",
@@ -159,31 +159,31 @@
     "shortName": "LTC-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2.png",
     "longName": "Litecoin USD",
-    "price": "69.91"
+    "price": "69.90"
   },
   {
     "shortName": "UNI7083-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png",
     "longName": "Uniswap USD",
-    "price": "8.0831"
+    "price": "8.0667"
   },
   {
     "shortName": "EETH-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/28568.png",
     "longName": "ether.fi Staked ETH USD",
-    "price": "2,627.33"
+    "price": "2,630.49"
   },
   {
     "shortName": "WEETH-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/28695.png",
     "longName": "Wrapped eETH USD",
-    "price": "2,766.29"
+    "price": "2,767.89"
   },
   {
     "shortName": "BTCB-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4023.png",
     "longName": "Bitcoin BEP2 USD",
-    "price": "67,539.26"
+    "price": "67,543.16"
   },
   {
     "shortName": "PEPE24478-USD",
@@ -195,37 +195,37 @@
     "shortName": "WBETH-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/24760.png",
     "longName": "Wrapped Beacon ETH USD",
-    "price": "2,775.97"
+    "price": "2,771.22"
   },
   {
     "shortName": "TAO22974-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/22974.png",
     "longName": "Bittensor USD",
-    "price": "550.42"
+    "price": "549.29"
   },
   {
     "shortName": "ICP-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8916.png",
     "longName": "Internet Computer USD",
-    "price": "7.9663"
+    "price": "7.9748"
   },
   {
     "shortName": "FET-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3773.png",
     "longName": "Artificial Superintelligence Alliance USD",
-    "price": "1.3642"
+    "price": "1.3630"
   },
   {
     "shortName": "KAS-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/20396.png",
     "longName": "Kaspa USD",
-    "price": "0.136824"
+    "price": "0.137206"
   },
   {
     "shortName": "XMR-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/328.png",
     "longName": "Monero USD",
-    "price": "157.39"
+    "price": "157.21"
   },
   {
     "shortName": "ETC-USD",
@@ -237,25 +237,25 @@
     "shortName": "XLM-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/512.png",
     "longName": "Stellar USD",
-    "price": "0.095486"
+    "price": "0.095635"
   },
   {
     "shortName": "POL28321-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/28321.png",
     "longName": "POL (ex-MATIC) USD",
-    "price": "0.366920"
+    "price": "0.366933"
   },
   {
     "shortName": "STX4847-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4847.png",
     "longName": "Stacks USD",
-    "price": "1.8187"
+    "price": "1.8175"
   },
   {
     "shortName": "FDUSD-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/26081.png",
     "longName": "First Digital USD USD",
-    "price": "0.999116"
+    "price": "0.998844"
   },
   {
     "shortName": "USDE29470-USD",
@@ -267,49 +267,49 @@
     "shortName": "IMX10603-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/10603.png",
     "longName": "Immutable USD",
-    "price": "1.5045"
+    "price": "1.5073"
   },
   {
     "shortName": "WIF-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/28752.png",
     "longName": "dogwifhat USD",
-    "price": "2.4420"
+    "price": "2.4393"
   },
   {
     "shortName": "OKB-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3897.png",
     "longName": "OKB USD",
-    "price": "40.01"
+    "price": "40.08"
   },
   {
     "shortName": "ARB11841-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/11841.png",
     "longName": "Arbitrum USD",
-    "price": "0.582251"
+    "price": "0.582285"
   },
   {
     "shortName": "AAVE-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7278.png",
     "longName": "Aave USD",
-    "price": "153.07"
+    "price": "153.24"
   },
   {
     "shortName": "FIL-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2280.png",
     "longName": "Filecoin USD",
-    "price": "3.8240"
+    "price": "3.8264"
   },
   {
     "shortName": "JITOSOL-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/22533.png",
     "longName": "Jito Staked SOL USD",
-    "price": "192.53"
+    "price": "192.89"
   },
   {
     "shortName": "OP-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/11840.png",
     "longName": "Optimism USD",
-    "price": "1.7094"
+    "price": "1.7096"
   },
   {
     "shortName": "INJ-USD",
@@ -321,43 +321,43 @@
     "shortName": "MNT27075-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/27075.png",
     "longName": "Mantle USD",
-    "price": "0.610441"
+    "price": "0.610667"
   },
   {
     "shortName": "CRO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3635.png",
     "longName": "Cronos USD",
-    "price": "0.077101"
+    "price": "0.077096"
   },
   {
     "shortName": "FTM-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3513.png",
     "longName": "Fantom USD",
-    "price": "0.711762"
+    "price": "0.711783"
   },
   {
     "shortName": "HBAR-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4642.png",
     "longName": "Hedera USD",
-    "price": "0.052551"
+    "price": "0.052639"
   },
   {
     "shortName": "VET-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3077.png",
     "longName": "VeChain USD",
-    "price": "0.023387"
+    "price": "0.023385"
   },
   {
     "shortName": "ATOM-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3794.png",
     "longName": "Cosmos USD",
-    "price": "4.7870"
+    "price": "4.7960"
   },
   {
     "shortName": "RUNE-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4157.png",
     "longName": "THORChain USD",
-    "price": "5.2199"
+    "price": "5.2291"
   },
   {
     "shortName": "BONK-USD",
@@ -369,19 +369,19 @@
     "shortName": "BGB-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/11092.png",
     "longName": "Bitget Token USD",
-    "price": "1.1605"
+    "price": "1.1595"
   },
   {
     "shortName": "SEI-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/23149.png",
     "longName": "Sei USD",
-    "price": "0.433121"
+    "price": "0.432260"
   },
   {
     "shortName": "GRT6719-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6719.png",
     "longName": "The Graph USD",
-    "price": "0.167813"
+    "price": "0.167826"
   },
   {
     "shortName": "SUSDE-USD",
@@ -399,169 +399,169 @@
     "shortName": "RETH-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/15060.png",
     "longName": "Rocket Pool ETH USD",
-    "price": "2,950.17"
+    "price": "2,951.56"
   },
   {
     "shortName": "POPCAT28782-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/28782.png",
     "longName": "Popcat (SOL) USD",
-    "price": "1.4507"
+    "price": "1.4378"
   },
   {
     "shortName": "JUP29210-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/29210.png",
     "longName": "Jupiter USD",
-    "price": "0.991585"
+    "price": "0.988001"
   },
   {
     "shortName": "THETA-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2416.png",
     "longName": "Theta Network USD",
-    "price": "1.3036"
+    "price": "1.3021"
   },
   {
     "shortName": "METH29035-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/29035.png",
     "longName": "Mantle Staked Ether USD",
-    "price": "2,749.11"
+    "price": "2,748.77"
   },
   {
     "shortName": "WLD-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/13502.png",
     "longName": "Worldcoin USD",
-    "price": "2.2643"
+    "price": "2.2693"
   },
   {
     "shortName": "TIA22861-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/22861.png",
     "longName": "Celestia USD",
-    "price": "5.7611"
+    "price": "5.7561"
   },
   {
     "shortName": "PYTH-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/28177.png",
     "longName": "Pyth Network USD",
-    "price": "0.347276"
+    "price": "0.348003"
   },
   {
     "shortName": "OM-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6536.png",
     "longName": "MANTRA USD",
-    "price": "1.4440"
+    "price": "1.4414"
   },
   {
     "shortName": "AR-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5632.png",
     "longName": "Arweave USD",
-    "price": "18.53"
+    "price": "18.54"
   },
   {
     "shortName": "HNT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5665.png",
     "longName": "Helium USD",
-    "price": "6.9983"
+    "price": "7.0036"
   },
   {
     "shortName": "FLZ-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/20787.png",
     "longName": "Fellaz USD",
-    "price": "2.5075"
+    "price": "2.5083"
   },
   {
     "shortName": "ZBU-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/27765.png",
     "longName": "Zeebu USD",
-    "price": "4.2695"
+    "price": "4.2712"
   },
   {
     "shortName": "KCS-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2087.png",
     "longName": "KuCoin Token USD",
-    "price": "9.0434"
+    "price": "9.0327"
   },
   {
     "shortName": "ONDO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/21159.png",
     "longName": "Ondo USD",
-    "price": "0.769829"
+    "price": "0.769456"
   },
   {
     "shortName": "ENA-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/30171.png",
     "longName": "Ethena USD",
-    "price": "0.388268"
+    "price": "0.388281"
   },
   {
     "shortName": "WZEDX-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/30506.png",
     "longName": "Wrapped Zedxion USD",
-    "price": "0.263713"
+    "price": "0.263617"
   },
   {
     "shortName": "MKR-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1518.png",
     "longName": "Maker USD",
-    "price": "1,202.08"
+    "price": "1,209.53"
   },
   {
     "shortName": "ALGO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4030.png",
     "longName": "Algorand USD",
-    "price": "0.124335"
+    "price": "0.124370"
   },
   {
     "shortName": "LDO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8000.png",
     "longName": "Lido DAO USD",
-    "price": "1.1472"
+    "price": "1.1478"
   },
   {
     "shortName": "BRETT29743-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/29743.png",
     "longName": "Brett (Based) USD",
-    "price": "0.103739"
+    "price": "0.103772"
   },
   {
     "shortName": "APE18876-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/18876.png",
     "longName": "ApeCoin USD",
-    "price": "1.3394"
+    "price": "1.3519"
   },
   {
     "shortName": "MATIC-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png",
     "longName": "Polygon USD",
-    "price": "0.366474"
+    "price": "0.366380"
   },
   {
     "shortName": "JASMY-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8425.png",
     "longName": "JasmyCoin USD",
-    "price": "0.019667"
+    "price": "0.019670"
   },
   {
     "shortName": "BSV-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3602.png",
     "longName": "Bitcoin SV USD",
-    "price": "48.28"
+    "price": "48.30"
   },
   {
     "shortName": "WBNB-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7192.png",
     "longName": "Wrapped BNB USD",
-    "price": "594.97"
+    "price": "594.93"
   },
   {
     "shortName": "VBNB-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7961.png",
     "longName": "Venus BNB USD",
-    "price": "14.59"
+    "price": "14.58"
   },
   {
     "shortName": "BEAM28298-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/28298.png",
     "longName": "Beam USD",
-    "price": "0.018664"
+    "price": "0.018593"
   },
   {
     "shortName": "BTT-USD",
@@ -573,133 +573,133 @@
     "shortName": "PUFETH-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/29325.png",
     "longName": "pufETH USD",
-    "price": "2,684.92"
+    "price": "2,686.65"
   },
   {
     "shortName": "FLOW-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4558.png",
     "longName": "Flow USD",
-    "price": "0.569925"
+    "price": "0.570087"
   },
   {
     "shortName": "MSOL-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/11461.png",
     "longName": "Marinade Staked SOL USD",
-    "price": "206.36"
+    "price": "206.51"
   },
   {
     "shortName": "CORE23254-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/23254.png",
     "longName": "Core USD",
-    "price": "0.942586"
+    "price": "0.942990"
   },
   {
     "shortName": "GALA-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7080.png",
     "longName": "Gala USD",
-    "price": "0.023351"
+    "price": "0.023721"
   },
   {
     "shortName": "USDCE-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/18852.png",
     "longName": "USD Coin Bridged USD",
-    "price": "0.999967"
+    "price": "0.999986"
   },
   {
     "shortName": "NOT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/28850.png",
     "longName": "Notcoin USD",
-    "price": "0.007983"
+    "price": "0.007982"
   },
   {
     "shortName": "FTN-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/22615.png",
     "longName": "Fasttoken USD",
-    "price": "2.6523"
+    "price": "2.6535"
   },
   {
     "shortName": "STRK22691-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/22691.png",
     "longName": "Starknet USD",
-    "price": "0.416591"
+    "price": "0.417483"
   },
   {
     "shortName": "GT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4269.png",
     "longName": "GateToken USD",
-    "price": "8.8323"
+    "price": "8.8225"
   },
   {
     "shortName": "AXS-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6783.png",
     "longName": "Axie Infinity USD",
-    "price": "5.2795"
+    "price": "5.2841"
   },
   {
     "shortName": "MEW30126-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/30126.png",
     "longName": "cat in a dogs world USD",
-    "price": "0.009098"
+    "price": "0.009087"
   },
   {
     "shortName": "MOG-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/27659.png",
     "longName": "Mog Coin USD",
-    "price": "0.00000204"
+    "price": "0.00000203"
   },
   {
     "shortName": "AERO29270-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/29270.png",
     "longName": "Aerodrome Finance USD",
-    "price": "1.1934"
+    "price": "1.1931"
   },
   {
     "shortName": "QNT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3155.png",
     "longName": "Quant USD",
-    "price": "65.25"
+    "price": "65.21"
   },
   {
     "shortName": "PENDLE-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/9481.png",
     "longName": "Pendle USD",
-    "price": "4.8395"
+    "price": "4.8301"
   },
   {
     "shortName": "EZETH-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/29520.png",
     "longName": "Renzo Restaked ETH USD",
-    "price": "2,696.66"
+    "price": "2,697.04"
   },
   {
     "shortName": "USDD-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/19891.png",
     "longName": "USDD USD",
-    "price": "0.999311"
+    "price": "0.998638"
   },
   {
     "shortName": "W-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/29587.png",
     "longName": "Wormhole USD",
-    "price": "0.282001"
+    "price": "0.282199"
   },
   {
     "shortName": "FLR-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7950.png",
     "longName": "Flare USD",
-    "price": "0.014652"
+    "price": "0.014569"
   },
   {
     "shortName": "EOS-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1765.png",
     "longName": "EOS USD",
-    "price": "0.485291"
+    "price": "0.485368"
   },
   {
     "shortName": "ORDI-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/25028.png",
     "longName": "ORDI USD",
-    "price": "35.15"
+    "price": "35.16"
   },
   {
     "shortName": "NEO-USD",
@@ -711,49 +711,49 @@
     "shortName": "CHEEL-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/23054.png",
     "longName": "Cheelee USD",
-    "price": "12.88"
+    "price": "12.85"
   },
   {
     "shortName": "DYDX-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/28324.png",
     "longName": "dYdX (Native) USD",
-    "price": "1.1348"
+    "price": "1.1370"
   },
   {
     "shortName": "SPX28081-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/28081.png",
     "longName": "SPX6900 USD",
-    "price": "0.791582"
+    "price": "0.808639"
   },
   {
     "shortName": "AXL17799-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/17799.png",
     "longName": "Axelar USD",
-    "price": "0.886931"
+    "price": "0.891509"
   },
   {
     "shortName": "EGLD-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6892.png",
     "longName": "MultiversX USD",
-    "price": "26.30"
+    "price": "26.29"
   },
   {
     "shortName": "CFX-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7334.png",
     "longName": "Conflux USD",
-    "price": "0.159334"
+    "price": "0.159438"
   },
   {
     "shortName": "RAY-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8526.png",
     "longName": "Raydium USD",
-    "price": "2.6749"
+    "price": "2.6740"
   },
   {
     "shortName": "XTZ-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2011.png",
     "longName": "Tezos USD",
-    "price": "0.686561"
+    "price": "0.687231"
   },
   {
     "shortName": "XEC-USD",
@@ -765,109 +765,109 @@
     "shortName": "XAUT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5176.png",
     "longName": "Tether Gold USD",
-    "price": "2,773.98"
+    "price": "2,768.47"
   },
   {
     "shortName": "MINA-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8646.png",
     "longName": "Mina USD",
-    "price": "0.581778"
+    "price": "0.581717"
   },
   {
     "shortName": "FTT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4195.png",
     "longName": "FTX Token USD",
-    "price": "2.0339"
+    "price": "2.0349"
   },
   {
     "shortName": "SAND-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6210.png",
     "longName": "The Sandbox USD",
-    "price": "0.277648"
+    "price": "0.278188"
   },
   {
     "shortName": "CHZ-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4066.png",
     "longName": "Chiliz USD",
-    "price": "0.072213"
+    "price": "0.072215"
   },
   {
     "shortName": "CKB-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4948.png",
     "longName": "Nervos Network USD",
-    "price": "0.014601"
+    "price": "0.014584"
   },
   {
     "shortName": "NEXO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2694.png",
     "longName": "Nexo USD",
-    "price": "1.0133"
+    "price": "1.0131"
   },
   {
     "shortName": "SUPER8290-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8290.png",
     "longName": "SuperVerse USD",
-    "price": "1.3316"
+    "price": "1.3323"
   },
   {
     "shortName": "TURBO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/24911.png",
     "longName": "Turbo USD",
-    "price": "0.009963"
+    "price": "0.009937"
   },
   {
     "shortName": "FRAX-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6952.png",
     "longName": "Frax USD",
-    "price": "0.997188"
+    "price": "0.997307"
   },
   {
     "shortName": "PYUSD-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/27772.png",
     "longName": "PayPal USD USD",
-    "price": "0.999816"
+    "price": "0.999836"
   },
   {
     "shortName": "RSETH-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/29242.png",
     "longName": "Kelp DAO Restaked ETH USD",
-    "price": "2,700.90"
+    "price": "2,702.24"
   },
   {
     "shortName": "MANA-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1966.png",
     "longName": "Decentraland USD",
-    "price": "0.328747"
+    "price": "0.329271"
   },
   {
     "shortName": "AKT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7431.png",
     "longName": "Akash Network USD",
-    "price": "2.5137"
+    "price": "2.5148"
   },
   {
     "shortName": "BOME-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/29870.png",
     "longName": "BOOK OF MEME USD",
-    "price": "0.008959"
+    "price": "0.008944"
   },
   {
     "shortName": "ZEC-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1437.png",
     "longName": "Zcash USD",
-    "price": "37.78"
+    "price": "37.80"
   },
   {
     "shortName": "GIGA30063-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/30063.png",
     "longName": "Gigachad USD",
-    "price": "0.066664"
+    "price": "0.065338"
   },
   {
     "shortName": "RON14101-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/14101.png",
     "longName": "Ronin USD",
-    "price": "1.6950"
+    "price": "1.6974"
   },
   {
     "shortName": "MSTETH-USD",
@@ -879,25 +879,25 @@
     "shortName": "ENS-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/13855.png",
     "longName": "Ethereum Name Service USD",
-    "price": "17.94"
+    "price": "17.93"
   },
   {
     "shortName": "1000SATS-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/28683.png",
     "longName": "SATS USD",
-    "price": "0.000273"
+    "price": "0.000272"
   },
   {
     "shortName": "ZK24091-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/24091.png",
     "longName": "ZKsync USD",
-    "price": "0.147708"
+    "price": "0.147933"
   },
   {
     "shortName": "PAXG-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4705.png",
     "longName": "PAX Gold USD",
-    "price": "2,758.56"
+    "price": "2,760.00"
   },
   {
     "shortName": "LUNC-USD",
@@ -909,73 +909,73 @@
     "shortName": "AIOZ-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/9104.png",
     "longName": "AIOZ Network USD",
-    "price": "0.468252"
+    "price": "0.468069"
   },
   {
     "shortName": "CBETH-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/21535.png",
     "longName": "Coinbase Wrapped Staked ETH USD",
-    "price": "2,848.12"
+    "price": "2,846.25"
   },
   {
     "shortName": "CAKE-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7186.png",
     "longName": "PancakeSwap USD",
-    "price": "1.9004"
+    "price": "1.9010"
   },
   {
     "shortName": "DOG30933-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/30933.png",
     "longName": "Dog (Runes) USD",
-    "price": "0.005214"
+    "price": "0.005189"
   },
   {
     "shortName": "ROSE-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7653.png",
     "longName": "Oasis USD",
-    "price": "0.073396"
+    "price": "0.073255"
   },
   {
     "shortName": "BLUR-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/23121.png",
     "longName": "Blur USD",
-    "price": "0.263977"
+    "price": "0.263843"
   },
   {
     "shortName": "BDX-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3987.png",
     "longName": "Beldex USD",
-    "price": "0.076669"
+    "price": "0.076767"
   },
   {
     "shortName": "SNX-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2586.png",
     "longName": "Synthetix USD",
-    "price": "1.5424"
+    "price": "1.5457"
   },
   {
     "shortName": "GNO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1659.png",
     "longName": "Gnosis USD",
-    "price": "193.70"
+    "price": "194.44"
   },
   {
     "shortName": "DEXE-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7326.png",
     "longName": "DeXe USD",
-    "price": "8.6655"
+    "price": "8.6663"
   },
   {
     "shortName": "TUSD-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2563.png",
     "longName": "TrueUSD USD",
-    "price": "0.996761"
+    "price": "0.997002"
   },
   {
     "shortName": "SAFE21585-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/21585.png",
     "longName": "Safe USD",
-    "price": "1.0433"
+    "price": "1.0442"
   },
   {
     "shortName": "BABYDOGE-USD",
@@ -987,25 +987,25 @@
     "shortName": "KLAY-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4256.png",
     "longName": "Klaytn USD",
-    "price": "0.121458"
+    "price": "0.121820"
   },
   {
     "shortName": "ASTR-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/12885.png",
     "longName": "Astar USD",
-    "price": "0.060564"
+    "price": "0.060627"
   },
   {
     "shortName": "TWT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5964.png",
     "longName": "Trust Wallet Token USD",
-    "price": "1.0622"
+    "price": "1.0612"
   },
   {
     "shortName": "CELO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5567.png",
     "longName": "Celo USD",
-    "price": "0.794612"
+    "price": "0.793969"
   },
   {
     "shortName": "LPT-USD",
@@ -1023,31 +1023,31 @@
     "shortName": "ZRO26997-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/26997.png",
     "longName": "LayerZero USD",
-    "price": "3.8116"
+    "price": "3.8120"
   },
   {
     "shortName": "IOTA-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1720.png",
     "longName": "IOTA USD",
-    "price": "0.120021"
+    "price": "0.120348"
   },
   {
     "shortName": "XDC-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2634.png",
     "longName": "XDC Network USD",
-    "price": "0.027570"
+    "price": "0.027582"
   },
   {
     "shortName": "TFUEL-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3822.png",
     "longName": "Theta Fuel USD",
-    "price": "0.060583"
+    "price": "0.060640"
   },
   {
     "shortName": "PEOPLE-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/14806.png",
     "longName": "ConstitutionDAO USD",
-    "price": "0.079818"
+    "price": "0.080113"
   },
   {
     "shortName": "WPLS-USD",
@@ -1065,55 +1065,55 @@
     "shortName": "USDY29256-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/29256.png",
     "longName": "Ondo US Dollar Yield USD",
-    "price": "1.0663"
+    "price": "1.0651"
   },
   {
     "shortName": "KAVA-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4846.png",
     "longName": "Kava USD",
-    "price": "0.364602"
+    "price": "0.365087"
   },
   {
     "shortName": "COMP5692-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5692.png",
     "longName": "Compound USD",
-    "price": "44.78"
+    "price": "44.87"
   },
   {
     "shortName": "GMT18069-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/18069.png",
     "longName": "GMT USD",
-    "price": "0.133933"
+    "price": "0.134139"
   },
   {
     "shortName": "BTCB20721-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/20721.png",
     "longName": "Bitcoin Avalanche Bridged USD",
-    "price": "67,539.88"
+    "price": "67,552.05"
   },
   {
     "shortName": "IOTX-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2777.png",
     "longName": "IoTeX USD",
-    "price": "0.040724"
+    "price": "0.040738"
   },
   {
     "shortName": "ARKM-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/27565.png",
     "longName": "Arkham USD",
-    "price": "1.6952"
+    "price": "1.6944"
   },
   {
     "shortName": "RSR-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3964.png",
     "longName": "Reserve Rights USD",
-    "price": "0.007207"
+    "price": "0.007215"
   },
   {
     "shortName": "ETHW-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/21296.png",
     "longName": "EthereumPoW USD",
-    "price": "3.4449"
+    "price": "3.4500"
   },
   {
     "shortName": "SLISBNB-USD",
@@ -1125,73 +1125,73 @@
     "shortName": "WOO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7501.png",
     "longName": "WOO USD",
-    "price": "0.201289"
+    "price": "0.201423"
   },
   {
     "shortName": "MEME28301-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/28301.png",
     "longName": "Memecoin USD",
-    "price": "0.012633"
+    "price": "0.012649"
   },
   {
     "shortName": "OSMO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/12220.png",
     "longName": "Osmosis USD",
-    "price": "0.524805"
+    "price": "0.524929"
   },
   {
     "shortName": "SFRXETH-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/23177.png",
     "longName": "Frax Staked Ether USD",
-    "price": "2,892.47"
+    "price": "2,892.50"
   },
   {
     "shortName": "SFP-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8119.png",
     "longName": "SafePal USD",
-    "price": "0.736719"
+    "price": "0.737637"
   },
   {
     "shortName": "DYM-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/28932.png",
     "longName": "Dymension USD",
-    "price": "1.7150"
+    "price": "1.7107"
   },
   {
     "shortName": "1INCH-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8104.png",
     "longName": "1inch Network USD",
-    "price": "0.274784"
+    "price": "0.275371"
   },
   {
     "shortName": "GLM-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1455.png",
     "longName": "Golem USD",
-    "price": "0.337637"
+    "price": "0.337568"
   },
   {
     "shortName": "MPLX-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/21870.png",
     "longName": "Metaplex USD",
-    "price": "0.441908"
+    "price": "0.442131"
   },
   {
     "shortName": "ETHFI-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/29814.png",
     "longName": "ether.fi USD",
-    "price": "1.6332"
+    "price": "1.6341"
   },
   {
     "shortName": "AMP-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6945.png",
     "longName": "Amp USD",
-    "price": "0.004091"
+    "price": "0.004085"
   },
   {
     "shortName": "AEVO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/29676.png",
     "longName": "Aevo USD",
-    "price": "0.375792"
+    "price": "0.376126"
   },
   {
     "shortName": "ETHX-USD",
@@ -1203,7 +1203,7 @@
     "shortName": "FLEX-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5190.png",
     "longName": "FLEX USD",
-    "price": "3.2978"
+    "price": "3.2980"
   },
   {
     "shortName": "APU30008-USD",
@@ -1215,127 +1215,127 @@
     "shortName": "WEMIX-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7548.png",
     "longName": "WEMIX USD",
-    "price": "0.784695"
+    "price": "0.783985"
   },
   {
     "shortName": "ID21846-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/21846.png",
     "longName": "SPACE ID USD",
-    "price": "0.415988"
+    "price": "0.417882"
   },
   {
     "shortName": "TBTC26133-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/26133.png",
     "longName": "tBTC USD",
-    "price": "67,242.92"
+    "price": "67,298.77"
   },
   {
     "shortName": "ZETA-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/21259.png",
     "longName": "ZetaChain USD",
-    "price": "0.694132"
+    "price": "0.692044"
   },
   {
     "shortName": "CRV-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6538.png",
     "longName": "Curve DAO Token USD",
-    "price": "0.260613"
+    "price": "0.260819"
   },
   {
     "shortName": "HOT2682-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2682.png",
     "longName": "Holo USD",
-    "price": "0.001754"
+    "price": "0.001753"
   },
   {
     "shortName": "ZRX-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1896.png",
     "longName": "0x Protocol USD",
-    "price": "0.349374"
+    "price": "0.350006"
   },
   {
     "shortName": "MX-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4041.png",
     "longName": "MX Token USD",
-    "price": "3.0427"
+    "price": "3.0634"
   },
   {
     "shortName": "SWETH-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/25147.png",
     "longName": "swETH USD",
-    "price": "2,821.30"
+    "price": "2,827.28"
   },
   {
     "shortName": "KSM-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5034.png",
     "longName": "Kusama USD",
-    "price": "18.80"
+    "price": "18.78"
   },
   {
     "shortName": "PRIME23711-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/23711.png",
     "longName": "Echelon Prime USD",
-    "price": "8.2263"
+    "price": "8.2871"
   },
   {
     "shortName": "BSOL-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/28862.png",
     "longName": "BlazeStake Staked SOL USD",
-    "price": "195.42"
+    "price": "195.61"
   },
   {
     "shortName": "ZIL-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2469.png",
     "longName": "Zilliqa USD",
-    "price": "0.015269"
+    "price": "0.015310"
   },
   {
     "shortName": "JST-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5488.png",
     "longName": "JUST USD",
-    "price": "0.029255"
+    "price": "0.029264"
   },
   {
     "shortName": "LSETH-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/23782.png",
     "longName": "Liquid Staked ETH USD",
-    "price": "2,781.26"
+    "price": "2,788.04"
   },
   {
     "shortName": "BITCOIN25220-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/25220.png",
     "longName": "HarryPotterObamaSonic10Inu (ERC-20) USD",
-    "price": "0.293392"
+    "price": "0.293835"
   },
   {
     "shortName": "SC-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1042.png",
     "longName": "Siacoin USD",
-    "price": "0.005017"
+    "price": "0.005012"
   },
   {
     "shortName": "MANTA-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/13631.png",
     "longName": "Manta Network USD",
-    "price": "0.763341"
+    "price": "0.765209"
   },
   {
     "shortName": "ENJ-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2130.png",
     "longName": "Enjin Coin USD",
-    "price": "0.162462"
+    "price": "0.163243"
   },
   {
     "shortName": "VBTC-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7962.png",
     "longName": "Venus BTC USD",
-    "price": "1,373.25"
+    "price": "1,373.90"
   },
   {
     "shortName": "DASH-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/131.png",
     "longName": "Dash USD",
-    "price": "23.53"
+    "price": "23.54"
   },
   {
     "shortName": "ANT-USD",
@@ -1347,85 +1347,85 @@
     "shortName": "SAGA30372-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/30372.png",
     "longName": "Saga USD",
-    "price": "2.6818"
+    "price": "2.6832"
   },
   {
     "shortName": "JTO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/28541.png",
     "longName": "Jito USD",
-    "price": "2.1861"
+    "price": "2.1859"
   },
   {
     "shortName": "METIS-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/9640.png",
     "longName": "Metis USD",
-    "price": "45.74"
+    "price": "45.95"
   },
   {
     "shortName": "GAS-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1785.png",
     "longName": "Gas USD",
-    "price": "4.2542"
+    "price": "4.2536"
   },
   {
     "shortName": "ANKR-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3783.png",
     "longName": "Ankr USD",
-    "price": "0.027493"
+    "price": "0.027655"
   },
   {
     "shortName": "ELF-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2299.png",
     "longName": "aelf USD",
-    "price": "0.373898"
+    "price": "0.374746"
   },
   {
     "shortName": "VRSC-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5049.png",
     "longName": "VerusCoin USD",
-    "price": "3.5264"
+    "price": "3.5253"
   },
   {
     "shortName": "LUNA20314-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/20314.png",
     "longName": "Terra USD",
-    "price": "0.382530"
+    "price": "0.382149"
   },
   {
     "shortName": "BNX23635-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/23635.png",
     "longName": "BinaryX USD",
-    "price": "0.714184"
+    "price": "0.715781"
   },
   {
     "shortName": "BETH-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8353.png",
     "longName": "Beacon ETH USD",
-    "price": "2,634.84"
+    "price": "2,629.60"
   },
   {
     "shortName": "SAVAX-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/18523.png",
     "longName": "BENQI Liquid Staked AVAX USD",
-    "price": "32.41"
+    "price": "32.40"
   },
   {
     "shortName": "BAT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1697.png",
     "longName": "Basic Attention Token USD",
-    "price": "0.175852"
+    "price": "0.176212"
   },
   {
     "shortName": "QTUM-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1684.png",
     "longName": "Qtum USD",
-    "price": "2.4715"
+    "price": "2.4766"
   },
   {
     "shortName": "ALT29073-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/29073.png",
     "longName": "Altlayer USD",
-    "price": "0.114070"
+    "price": "0.114047"
   },
   {
     "shortName": "MGC29839-USD",
@@ -1437,7 +1437,7 @@
     "shortName": "ORBR-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/17520.png",
     "longName": "Orbler USD",
-    "price": "0.250365"
+    "price": "0.250711"
   },
   {
     "shortName": "SSV-USD",
@@ -1449,19 +1449,19 @@
     "shortName": "RVN-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2577.png",
     "longName": "Ravencoin USD",
-    "price": "0.017602"
+    "price": "0.017639"
   },
   {
     "shortName": "PONKE-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/29150.png",
     "longName": "Ponke USD",
-    "price": "0.454756"
+    "price": "0.453537"
   },
   {
     "shortName": "ETHDYDX-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/11156.png",
     "longName": "dYdX (ethDYDX) USD",
-    "price": "1.1356"
+    "price": "1.1371"
   },
   {
     "shortName": "OSAK-USD",
@@ -1473,19 +1473,19 @@
     "shortName": "TRIBE-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/9025.png",
     "longName": "Tribe USD",
-    "price": "0.454421"
+    "price": "0.454624"
   },
   {
     "shortName": "T-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/17751.png",
     "longName": "Threshold USD",
-    "price": "0.024165"
+    "price": "0.024164"
   },
   {
     "shortName": "CHEX-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8534.png",
     "longName": "Chintai USD",
-    "price": "0.247728"
+    "price": "0.248689"
   },
   {
     "shortName": "RPL-USD",
@@ -1497,97 +1497,97 @@
     "shortName": "NPC27960-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/27960.png",
     "longName": "Non-Playable Coin USD",
-    "price": "0.032206"
+    "price": "0.032153"
   },
   {
     "shortName": "RSWETH-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/29974.png",
     "longName": "Restaked Swell Ethereum USD",
-    "price": "2,677.92"
+    "price": "2,679.56"
   },
   {
     "shortName": "MWC-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5031.png",
     "longName": "MimbleWimbleCoin USD",
-    "price": "21.03"
+    "price": "21.10"
   },
   {
     "shortName": "UMA-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5617.png",
     "longName": "UMA USD",
-    "price": "2.6810"
+    "price": "2.6819"
   },
   {
     "shortName": "MASK8536-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8536.png",
     "longName": "Mask Network USD",
-    "price": "2.2832"
+    "price": "2.2854"
   },
   {
     "shortName": "GMX11857-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/11857.png",
     "longName": "GMX USD",
-    "price": "23.32"
+    "price": "23.35"
   },
   {
     "shortName": "POLYX-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/20362.png",
     "longName": "Polymesh USD",
-    "price": "0.253290"
+    "price": "0.253598"
   },
   {
     "shortName": "IO29835-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/29835.png",
     "longName": "io.net USD",
-    "price": "1.8983"
+    "price": "1.9039"
   },
   {
     "shortName": "ULTIMA-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/28293.png",
     "longName": "Ultima USD",
-    "price": "6,965.76"
+    "price": "6,987.72"
   },
   {
     "shortName": "SKL-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5691.png",
     "longName": "SKALE USD",
-    "price": "0.040471"
+    "price": "0.040520"
   },
   {
     "shortName": "USDB29599-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/29599.png",
     "longName": "USDB USD",
-    "price": "0.995755"
+    "price": "0.996571"
   },
   {
     "shortName": "YGG-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/10688.png",
     "longName": "Yield Guild Games USD",
-    "price": "0.564835"
+    "price": "0.568568"
   },
   {
     "shortName": "DCR-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1168.png",
     "longName": "Decred USD",
-    "price": "12.96"
+    "price": "12.94"
   },
   {
     "shortName": "STORJ-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1772.png",
     "longName": "Storj USD",
-    "price": "0.528664"
+    "price": "0.531820"
   },
   {
     "shortName": "PEPECOIN-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/24835.png",
     "longName": "PepeCoin USD",
-    "price": "1.7570"
+    "price": "1.7573"
   },
   {
     "shortName": "SOL16116-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/16116.png",
     "longName": "Wrapped Solana USD",
-    "price": "167.94"
+    "price": "168.22"
   },
   {
     "shortName": "T99-USD",
@@ -1599,79 +1599,79 @@
     "shortName": "PIXEL29335-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/29335.png",
     "longName": "Pixels USD",
-    "price": "0.184416"
+    "price": "0.187450"
   },
   {
     "shortName": "FLUX-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3029.png",
     "longName": "Flux USD",
-    "price": "0.550210"
+    "price": "0.550749"
   },
   {
     "shortName": "ATH30083-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/30083.png",
     "longName": "Aethir USD",
-    "price": "0.052488"
+    "price": "0.052615"
   },
   {
     "shortName": "BIGTIME-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/28230.png",
     "longName": "Big Time USD",
-    "price": "0.175643"
+    "price": "0.176035"
   },
   {
     "shortName": "ONE3945-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3945.png",
     "longName": "Harmony USD",
-    "price": "0.013955"
+    "price": "0.013976"
   },
   {
     "shortName": "SUSHI-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6758.png",
     "longName": "SushiSwap USD",
-    "price": "0.752882"
+    "price": "0.753208"
   },
   {
     "shortName": "XCH-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/9258.png",
     "longName": "Chia USD",
-    "price": "14.28"
+    "price": "14.32"
   },
   {
     "shortName": "TRAC-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2467.png",
     "longName": "OriginTrail USD",
-    "price": "0.465443"
+    "price": "0.466319"
   },
   {
     "shortName": "ILV-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8719.png",
     "longName": "Illuvium USD",
-    "price": "38.98"
+    "price": "39.08"
   },
   {
     "shortName": "BANANA28066-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/28066.png",
     "longName": "Banana Gun USD",
-    "price": "55.25"
+    "price": "55.10"
   },
   {
     "shortName": "RBTC-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3626.png",
     "longName": "Rootstock Smart Bitcoin USD",
-    "price": "67,614.66"
+    "price": "67,569.12"
   },
   {
     "shortName": "INF-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/15829.png",
     "longName": "INFAM USD",
-    "price": "209.08"
+    "price": "209.11"
   },
   {
     "shortName": "BLAST28480-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/28480.png",
     "longName": "Blast USD",
-    "price": "0.008750"
+    "price": "0.008797"
   },
   {
     "shortName": "QUBIC-USD",
@@ -1683,175 +1683,175 @@
     "shortName": "COTI-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3992.png",
     "longName": "COTI USD",
-    "price": "0.106682"
+    "price": "0.107254"
   },
   {
     "shortName": "EDU24613-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/24613.png",
     "longName": "Open Campus USD",
-    "price": "0.555305"
+    "price": "0.556081"
   },
   {
     "shortName": "SUN-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/10529.png",
     "longName": "Sun [New] USD",
-    "price": "0.018713"
+    "price": "0.018686"
   },
   {
     "shortName": "BAND-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4679.png",
     "longName": "Band Protocol USD",
-    "price": "1.1951"
+    "price": "1.1965"
   },
   {
     "shortName": "CVX-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/9903.png",
     "longName": "Convex Finance USD",
-    "price": "1.8214"
+    "price": "1.8225"
   },
   {
     "shortName": "ONT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2566.png",
     "longName": "Ontology USD",
-    "price": "0.197424"
+    "price": "0.197705"
   },
   {
     "shortName": "BICO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/9543.png",
     "longName": "Biconomy USD",
-    "price": "0.205455"
+    "price": "0.206274"
   },
   {
     "shortName": "LRC-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1934.png",
     "longName": "Loopring USD",
-    "price": "0.130009"
+    "price": "0.130369"
   },
   {
     "shortName": "GOMINING-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/10180.png",
     "longName": "Gomining USD",
-    "price": "0.427832"
+    "price": "0.427481"
   },
   {
     "shortName": "DSYNC-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/29884.png",
     "longName": "Destra Network USD",
-    "price": "0.181881"
+    "price": "0.181782"
   },
   {
     "shortName": "FXS-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6953.png",
     "longName": "Frax Share USD",
-    "price": "2.0781"
+    "price": "2.0812"
   },
   {
     "shortName": "XRD-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/11948.png",
     "longName": "Radix USD",
-    "price": "0.016396"
+    "price": "0.016326"
   },
   {
     "shortName": "TRB-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4944.png",
     "longName": "Tellor USD",
-    "price": "66.37"
+    "price": "66.59"
   },
   {
     "shortName": "YFI-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5864.png",
     "longName": "yearn.finance USD",
-    "price": "5,121.23"
+    "price": "5,134.27"
   },
   {
     "shortName": "RLB-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/15271.png",
     "longName": "Rollbit Coin USD",
-    "price": "0.070779"
+    "price": "0.070746"
   },
   {
     "shortName": "PAAL-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/27178.png",
     "longName": "PAAL AI USD",
-    "price": "0.207068"
+    "price": "0.206834"
   },
   {
     "shortName": "KDA-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5647.png",
     "longName": "Kadena USD",
-    "price": "0.574731"
+    "price": "0.575682"
   },
   {
     "shortName": "AGI-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/24007.png",
     "longName": "Delysium USD",
-    "price": "0.172651"
+    "price": "0.172962"
   },
   {
     "shortName": "ACH-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6958.png",
     "longName": "Alchemy Pay USD",
-    "price": "0.020320"
+    "price": "0.020362"
   },
   {
     "shortName": "MERL-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/30712.png",
     "longName": "Merlin Chain USD",
-    "price": "0.313707"
+    "price": "0.314196"
   },
   {
     "shortName": "UPC-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/28654.png",
     "longName": "UPCX USD",
-    "price": "3.3475"
+    "price": "3.3527"
   },
   {
     "shortName": "ABT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2545.png",
     "longName": "Arcblock USD",
-    "price": "1.6456"
+    "price": "1.6387"
   },
   {
     "shortName": "AUDIO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7455.png",
     "longName": "Audius USD",
-    "price": "0.127618"
+    "price": "0.127705"
   },
   {
     "shortName": "MICHI30943-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/30943.png",
     "longName": "michi (SOL) USD",
-    "price": "0.291610"
+    "price": "0.293964"
   },
   {
     "shortName": "VIRTUAL-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/29420.png",
     "longName": "Virtuals Protocol USD",
-    "price": "0.159412"
+    "price": "0.154979"
   },
   {
     "shortName": "XEM-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/873.png",
     "longName": "NEM USD",
-    "price": "0.017701"
+    "price": "0.017733"
   },
   {
     "shortName": "BORG-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2499.png",
     "longName": "SwissBorg USD",
-    "price": "0.161630"
+    "price": "0.161499"
   },
   {
     "shortName": "CFG-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6748.png",
     "longName": "Centrifuge USD",
-    "price": "0.312259"
+    "price": "0.311254"
   },
   {
     "shortName": "SXP-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4279.png",
     "longName": "Solar USD",
-    "price": "0.252901"
+    "price": "0.253385"
   },
   {
     "shortName": "WAVAX-USD",
@@ -1863,91 +1863,91 @@
     "shortName": "CHR-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3978.png",
     "longName": "Chromia USD",
-    "price": "0.187897"
+    "price": "0.188282"
   },
   {
     "shortName": "CTC-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5198.png",
     "longName": "Creditcoin USD",
-    "price": "0.406351"
+    "price": "0.403623"
   },
   {
     "shortName": "XAI28933-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/28933.png",
     "longName": "Xai USD",
-    "price": "0.230637"
+    "price": "0.231232"
   },
   {
     "shortName": "GLMR-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6836.png",
     "longName": "Moonbeam USD",
-    "price": "0.169021"
+    "price": "0.169259"
   },
   {
     "shortName": "API3-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7737.png",
     "longName": "API3 USD",
-    "price": "1.7647"
+    "price": "1.7694"
   },
   {
     "shortName": "KUB-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/16093.png",
     "longName": "Bitkub Coin USD",
-    "price": "2.1950"
+    "price": "2.2032"
   },
   {
     "shortName": "BB30746-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/30746.png",
     "longName": "BounceBit USD",
-    "price": "0.324815"
+    "price": "0.325457"
   },
   {
     "shortName": "HONEY22850-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/22850.png",
     "longName": "Hivemapper USD",
-    "price": "0.055115"
+    "price": "0.055107"
   },
   {
     "shortName": "TRUMP27872-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/27872.png",
     "longName": "MAGA USD",
-    "price": "3.3947"
+    "price": "3.3850"
   },
   {
     "shortName": "VTHO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3012.png",
     "longName": "VeThor Token USD",
-    "price": "0.001802"
+    "price": "0.001803"
   },
   {
     "shortName": "TEL-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2394.png",
     "longName": "Telcoin USD",
-    "price": "0.001620"
+    "price": "0.001619"
   },
   {
     "shortName": "USDJ-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5446.png",
     "longName": "USDJ USD",
-    "price": "1.1384"
+    "price": "1.1392"
   },
   {
     "shortName": "ICX-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2099.png",
     "longName": "ICON USD",
-    "price": "0.142632"
+    "price": "0.142978"
   },
   {
     "shortName": "DRIFT31278-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/31278.png",
     "longName": "Drift USD",
-    "price": "0.559404"
+    "price": "0.559534"
   },
   {
     "shortName": "ZIG-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/9260.png",
     "longName": "Zignaly USD",
-    "price": "0.099985"
+    "price": "0.100021"
   },
   {
     "shortName": "MUMU30285-USD",
@@ -1959,25 +1959,25 @@
     "shortName": "CVC-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1816.png",
     "longName": "Civic USD",
-    "price": "0.140762"
+    "price": "0.140645"
   },
   {
     "shortName": "VANRY-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8037.png",
     "longName": "Vanar Chain USD",
-    "price": "0.086133"
+    "price": "0.086299"
   },
   {
     "shortName": "LSK-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1214.png",
     "longName": "Lisk USD",
-    "price": "0.849610"
+    "price": "0.852744"
   },
   {
     "shortName": "OZO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/28076.png",
     "longName": "Ozone Chain USD",
-    "price": "0.227796"
+    "price": "0.227311"
   },
   {
     "shortName": "AXLFRXETH-USD",
@@ -1989,97 +1989,97 @@
     "shortName": "USTC-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7129.png",
     "longName": "TerraClassicUSD USD",
-    "price": "0.023274"
+    "price": "0.023281"
   },
   {
     "shortName": "CSPR-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5899.png",
     "longName": "Casper USD",
-    "price": "0.010861"
+    "price": "0.010819"
   },
   {
     "shortName": "ANDY29879-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/29879.png",
     "longName": "ANDY (ETH) USD",
-    "price": "0.000134"
+    "price": "0.000133"
   },
   {
     "shortName": "EURS-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2989.png",
     "longName": "STASIS EURO USD",
-    "price": "1.0805"
+    "price": "1.0814"
   },
   {
     "shortName": "H2O19091-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/19091.png",
     "longName": "H2O DAO USD",
-    "price": "0.162408"
+    "price": "0.162195"
   },
   {
     "shortName": "MRS21178-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/21178.png",
     "longName": "Metars Genesis USD",
-    "price": "1.5566"
+    "price": "1.5542"
   },
   {
     "shortName": "VETH-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7963.png",
     "longName": "Venus ETH USD",
-    "price": "54.75"
+    "price": "54.72"
   },
   {
     "shortName": "JOE-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/11396.png",
     "longName": "JOE USD",
-    "price": "0.346891"
+    "price": "0.347160"
   },
   {
     "shortName": "RETARDIO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/31921.png",
     "longName": "RETARDIO USD",
-    "price": "0.130924"
+    "price": "0.131165"
   },
   {
     "shortName": "WAVES-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1274.png",
     "longName": "Waves USD",
-    "price": "1.0940"
+    "price": "1.0945"
   },
   {
     "shortName": "POWR-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2132.png",
     "longName": "Powerledger USD",
-    "price": "0.225013"
+    "price": "0.225315"
   },
   {
     "shortName": "MOB-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7878.png",
     "longName": "MobileCoin USD",
-    "price": "0.624346"
+    "price": "0.624714"
   },
   {
     "shortName": "BAL-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5728.png",
     "longName": "Balancer USD",
-    "price": "2.0505"
+    "price": "2.0521"
   },
   {
     "shortName": "ONG3217-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3217.png",
     "longName": "Ontology Gas USD",
-    "price": "0.315069"
+    "price": "0.314936"
   },
   {
     "shortName": "WAXP-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2300.png",
     "longName": "WAX USD",
-    "price": "0.034880"
+    "price": "0.034961"
   },
   {
     "shortName": "WZRD30491-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/30491.png",
     "longName": "Bitcoin Wizards USD",
-    "price": "5.9052"
+    "price": "5.9017"
   },
   {
     "shortName": "IQ-USD",
@@ -2091,67 +2091,67 @@
     "shortName": "ZEN-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1698.png",
     "longName": "Horizen USD",
-    "price": "7.8973"
+    "price": "7.9127"
   },
   {
     "shortName": "ORCA-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/11165.png",
     "longName": "Orca USD",
-    "price": "2.3221"
+    "price": "2.3212"
   },
   {
     "shortName": "DEGEN30096-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/30096.png",
     "longName": "Degen USD",
-    "price": "0.008648"
+    "price": "0.008641"
   },
   {
     "shortName": "RLC-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1637.png",
     "longName": "iExec RLC USD",
-    "price": "1.6783"
+    "price": "1.6800"
   },
   {
     "shortName": "DGB-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/109.png",
     "longName": "DigiByte USD",
-    "price": "0.006957"
+    "price": "0.006964"
   },
   {
     "shortName": "CPOOL-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/12573.png",
     "longName": "Clearpool USD",
-    "price": "0.172732"
+    "price": "0.172268"
   },
   {
     "shortName": "SLP-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5824.png",
     "longName": "Smooth Love Potion USD",
-    "price": "0.002899"
+    "price": "0.002894"
   },
   {
     "shortName": "XVS-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7288.png",
     "longName": "Venus USD",
-    "price": "7.2704"
+    "price": "7.2702"
   },
   {
     "shortName": "NTRN26680-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/26680.png",
     "longName": "Neutron USD",
-    "price": "0.409233"
+    "price": "0.411254"
   },
   {
     "shortName": "XNO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1567.png",
     "longName": "Nano USD",
-    "price": "0.886439"
+    "price": "0.883443"
   },
   {
     "shortName": "CTSI-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5444.png",
     "longName": "Cartesi USD",
-    "price": "0.141453"
+    "price": "0.140469"
   },
   {
     "shortName": "OSETH-USD",
@@ -2163,223 +2163,223 @@
     "shortName": "TAIKO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/31525.png",
     "longName": "Taiko USD",
-    "price": "1.4709"
+    "price": "1.4695"
   },
   {
     "shortName": "DIA-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6138.png",
     "longName": "DIA USD",
-    "price": "1.0610"
+    "price": "1.0626"
   },
   {
     "shortName": "SYN12147-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/12147.png",
     "longName": "Synapse USD",
-    "price": "0.587905"
+    "price": "0.586460"
   },
   {
     "shortName": "C98-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/10903.png",
     "longName": "Coin98 USD",
-    "price": "0.139008"
+    "price": "0.139033"
   },
   {
     "shortName": "NAKA-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/12749.png",
     "longName": "Nakamoto Games USD",
-    "price": "1.2245"
+    "price": "1.2280"
   },
   {
     "shortName": "NMR-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1732.png",
     "longName": "Numeraire USD",
-    "price": "15.47"
+    "price": "15.50"
   },
   {
     "shortName": "PORTAL29555-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/29555.png",
     "longName": "Portal USD",
-    "price": "0.333281"
+    "price": "0.335754"
   },
   {
     "shortName": "HEART-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/15584.png",
     "longName": "Humans.ai USD",
-    "price": "0.019751"
+    "price": "0.019789"
   },
   {
     "shortName": "VUSDC-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7958.png",
     "longName": "Venus USDC USD",
-    "price": "0.024586"
+    "price": "0.024589"
   },
   {
     "shortName": "TLOS-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4660.png",
     "longName": "Telos USD",
-    "price": "0.293159"
+    "price": "0.293063"
   },
   {
     "shortName": "MAGIC14783-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/14783.png",
     "longName": "Treasure USD",
-    "price": "0.408413"
+    "price": "0.40903"
   },
   {
     "shortName": "USDP-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3330.png",
     "longName": "Pax Dollar USD",
-    "price": "1.0006"
+    "price": "1.0007"
   },
   {
     "shortName": "IOST-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2405.png",
     "longName": "IOST USD",
-    "price": "0.005105"
+    "price": "0.005113"
   },
   {
     "shortName": "PUNDIX-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/9040.png",
     "longName": "Pundi X (New) USD",
-    "price": "0.414564"
+    "price": "0.414992"
   },
   {
     "shortName": "OAS-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/22265.png",
     "longName": "Oasys USD",
-    "price": "0.035798"
+    "price": "0.035762"
   },
   {
     "shortName": "ARK-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1586.png",
     "longName": "Ark USD",
-    "price": "0.576666"
+    "price": "0.577838"
   },
   {
     "shortName": "LON-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8083.png",
     "longName": "Tokenlon Network Token USD",
-    "price": "0.919820"
+    "price": "0.863864"
   },
   {
     "shortName": "ZENT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/30963.png",
     "longName": "Zentry USD",
-    "price": "0.017671"
+    "price": "0.017732"
   },
   {
     "shortName": "GEMS31750-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/31750.png",
     "longName": "Gems USD",
-    "price": "0.262354"
+    "price": "0.262346"
   },
   {
     "shortName": "ALPH-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/14878.png",
     "longName": "Alephium USD",
-    "price": "1.1715"
+    "price": "1.1718"
   },
   {
     "shortName": "AZERO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/11976.png",
     "longName": "Aleph Zero USD",
-    "price": "0.389768"
+    "price": "0.389450"
   },
   {
     "shortName": "VVS-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/14519.png",
     "longName": "VVS Finance USD",
-    "price": "0.00000221"
+    "price": "0.00000220"
   },
   {
     "shortName": "PYR-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/9308.png",
     "longName": "Vulcan Forged (PYR) USD",
-    "price": "2.6398"
+    "price": "2.6425"
   },
   {
     "shortName": "TRU7725-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7725.png",
     "longName": "TrueFi USD",
-    "price": "0.082038"
+    "price": "0.082065"
   },
   {
     "shortName": "NOS-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/16612.png",
     "longName": "Nosana USD",
-    "price": "2.1318"
+    "price": "2.1423"
   },
   {
     "shortName": "DAR-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/11374.png",
     "longName": "Mines of Dalarnia USD",
-    "price": "0.164536"
+    "price": "0.164408"
   },
   {
     "shortName": "BORA-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3801.png",
     "longName": "BORA USD",
-    "price": "0.092816"
+    "price": "0.093111"
   },
   {
     "shortName": "AI28846-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/28846.png",
     "longName": "Sleepless AI USD",
-    "price": "0.444651"
+    "price": "0.445143"
   },
   {
     "shortName": "AITECH-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/19055.png",
     "longName": "Solidus Ai Tech USD",
-    "price": "0.093845"
+    "price": "0.094137"
   },
   {
     "shortName": "PROM-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4120.png",
     "longName": "Prom USD",
-    "price": "5.5065"
+    "price": "5.5086"
   },
   {
     "shortName": "CELR-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3814.png",
     "longName": "Celer Network USD",
-    "price": "0.012896"
+    "price": "0.012934"
   },
   {
     "shortName": "HIVE-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5370.png",
     "longName": "Hive USD",
-    "price": "0.199703"
+    "price": "0.200269"
   },
   {
     "shortName": "MYRO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/28382.png",
     "longName": "Myro USD",
-    "price": "0.105559"
+    "price": "0.105362"
   },
   {
     "shortName": "VELO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7127.png",
     "longName": "Velo USD",
-    "price": "0.013464"
+    "price": "0.013451"
   },
   {
     "shortName": "PHB-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/13969.png",
     "longName": "Phoenix USD",
-    "price": "1.9031"
+    "price": "1.9047"
   },
   {
     "shortName": "STRAX30168-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/30168.png",
     "longName": "Stratis [New] USD",
-    "price": "0.050171"
+    "price": "0.050275"
   },
   {
     "shortName": "RIF-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3701.png",
     "longName": "Rootstock Infrastructure Framework USD",
-    "price": "0.098806"
+    "price": "0.099285"
   },
   {
     "shortName": "SURE-USD",
@@ -2391,43 +2391,43 @@
     "shortName": "SNT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1759.png",
     "longName": "Status USD",
-    "price": "0.025029"
+    "price": "0.025026"
   },
   {
     "shortName": "HIGH-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/11232.png",
     "longName": "Highstreet USD",
-    "price": "1.4194"
+    "price": "1.4128"
   },
   {
     "shortName": "BMX-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2933.png",
     "longName": "BitMart Token USD",
-    "price": "0.299813"
+    "price": "0.299809"
   },
   {
     "shortName": "PCI-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5275.png",
     "longName": "Paycoin USD",
-    "price": "0.095920"
+    "price": "0.095949"
   },
   {
     "shortName": "PRO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1974.png",
     "longName": "Propy USD",
-    "price": "0.963147"
+    "price": "0.960432"
   },
   {
     "shortName": "SLERF-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/29920.png",
     "longName": "SLERF USD",
-    "price": "0.191523"
+    "price": "0.191380"
   },
   {
     "shortName": "POKT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/11823.png",
     "longName": "Pocket Network USD",
-    "price": "0.058283"
+    "price": "0.057747"
   },
   {
     "shortName": "SHIBTC-USD",
@@ -2439,127 +2439,127 @@
     "shortName": "POND-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7497.png",
     "longName": "Marlin USD",
-    "price": "0.011751"
+    "price": "0.011760"
   },
   {
     "shortName": "HOPPY30859-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/30859.png",
     "longName": "Hoppy USD",
-    "price": "0.000225"
+    "price": "0.000222"
   },
   {
     "shortName": "MOVR-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/9285.png",
     "longName": "Moonriver USD",
-    "price": "10.25"
+    "price": "10.26"
   },
   {
     "shortName": "COQ-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/28675.png",
     "longName": "Coq Inu USD",
-    "price": "0.00000136"
+    "price": "0.00000135"
   },
   {
     "shortName": "MVL-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2982.png",
     "longName": "MVL USD",
-    "price": "0.003634"
+    "price": "0.003633"
   },
   {
     "shortName": "DENT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1886.png",
     "longName": "Dent USD",
-    "price": "0.000922"
+    "price": "0.000921"
   },
   {
     "shortName": "CGPT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/23756.png",
     "longName": "ChainGPT USD",
-    "price": "0.123671"
+    "price": "0.123581"
   },
   {
     "shortName": "BONE11865-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/11865.png",
     "longName": "Bone ShibaSwap USD",
-    "price": "0.399449"
+    "price": "0.399991"
   },
   {
     "shortName": "HOOK-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/22764.png",
     "longName": "Hooked Protocol USD",
-    "price": "0.468038"
+    "price": "0.467859"
   },
   {
     "shortName": "LCX-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4950.png",
     "longName": "LCX USD",
-    "price": "0.118275"
+    "price": "0.117693"
   },
   {
     "shortName": "ACE28674-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/28674.png",
     "longName": "Fusionist USD",
-    "price": "2.3048"
+    "price": "2.3280"
   },
   {
     "shortName": "KEEP-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5566.png",
     "longName": "Keep Network USD",
-    "price": "0.094337"
+    "price": "0.114698"
   },
   {
     "shortName": "0X0-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/23355.png",
     "longName": "0x0.ai USD",
-    "price": "0.103339"
+    "price": "0.103468"
   },
   {
     "shortName": "DODO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7224.png",
     "longName": "DODO USD",
-    "price": "0.123542"
+    "price": "0.123644"
   },
   {
     "shortName": "MTL-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1788.png",
     "longName": "Metal DAO USD",
-    "price": "1.1376"
+    "price": "1.1780"
   },
   {
     "shortName": "DKA-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5908.png",
     "longName": "dKargo USD",
-    "price": "0.020684"
+    "price": "0.020770"
   },
   {
     "shortName": "STRX24875-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/24875.png",
     "longName": "Staked TRX USD",
-    "price": "0.183340"
+    "price": "0.183339"
   },
   {
     "shortName": "AUCTION-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8602.png",
     "longName": "Bounce Token USD",
-    "price": "13.50"
+    "price": "13.51"
   },
   {
     "shortName": "ORAI-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7533.png",
     "longName": "Oraichain USD",
-    "price": "6.4105"
+    "price": "6.4279"
   },
   {
     "shortName": "AIAT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/28688.png",
     "longName": "AI Analysis Token USD",
-    "price": "0.602572"
+    "price": "0.603673"
   },
   {
     "shortName": "ALPHA-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7232.png",
     "longName": "Stella USD",
-    "price": "0.098270"
+    "price": "0.097013"
   },
   {
     "shortName": "SPELL-USD",
@@ -2571,7 +2571,7 @@
     "shortName": "WIN-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4206.png",
     "longName": "WINkLink USD",
-    "price": "0.000088"
+    "price": "0.000089"
   },
   {
     "shortName": "WHY30867-USD",
@@ -2583,103 +2583,103 @@
     "shortName": "STIK-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/23951.png",
     "longName": "Staika USD",
-    "price": "1.9435"
+    "price": "1.9442"
   },
   {
     "shortName": "DAG-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2868.png",
     "longName": "Constellation USD",
-    "price": "0.030388"
+    "price": "0.029579"
   },
   {
     "shortName": "EURC-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/20641.png",
     "longName": "EURC USD",
-    "price": "1.0790"
+    "price": "1.0795"
   },
   {
     "shortName": "CYBER24781-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/24781.png",
     "longName": "Cyber USD",
-    "price": "3.1142"
+    "price": "3.1145"
   },
   {
     "shortName": "DUSK-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4092.png",
     "longName": "Dusk USD",
-    "price": "0.185683"
+    "price": "0.186135"
   },
   {
     "shortName": "RARE11294-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/11294.png",
     "longName": "SuperRare USD",
-    "price": "0.120748"
+    "price": "0.121542"
   },
   {
     "shortName": "XYM-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8677.png",
     "longName": "Symbol USD",
-    "price": "0.014216"
+    "price": "0.014218"
   },
   {
     "shortName": "ORBS-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3835.png",
     "longName": "Orbs USD",
-    "price": "0.027277"
+    "price": "0.027251"
   },
   {
     "shortName": "PHA-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6841.png",
     "longName": "Phala Network USD",
-    "price": "0.113474"
+    "price": "0.113758"
   },
   {
     "shortName": "VENOM-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/22059.png",
     "longName": "Venom USD",
-    "price": "0.086812"
+    "price": "0.086852"
   },
   {
     "shortName": "STEEM-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1230.png",
     "longName": "Steem USD",
-    "price": "0.180886"
+    "price": "0.181249"
   },
   {
     "shortName": "ARDR-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1320.png",
     "longName": "Ardor USD",
-    "price": "0.085885"
+    "price": "0.085978"
   },
   {
     "shortName": "STPT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4006.png",
     "longName": "STP USD",
-    "price": "0.043925"
+    "price": "0.043955"
   },
   {
     "shortName": "SYS-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/541.png",
     "longName": "Syscoin USD",
-    "price": "0.106848"
+    "price": "0.107036"
   },
   {
     "shortName": "HT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2502.png",
     "longName": "Huobi Token USD",
-    "price": "0.522632"
+    "price": "0.519696"
   },
   {
     "shortName": "RSS3-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/17917.png",
     "longName": "RSS3 USD",
-    "price": "0.125589"
+    "price": "0.125514"
   },
   {
     "shortName": "XYO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2765.png",
     "longName": "XYO USD",
-    "price": "0.006226"
+    "price": "0.006233"
   },
   {
     "shortName": "CUDOS-USD",
@@ -2691,67 +2691,67 @@
     "shortName": "KNC-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/9444.png",
     "longName": "Kyber Network Crystal v2 USD",
-    "price": "0.449945"
+    "price": "0.449941"
   },
   {
     "shortName": "SFUND-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8972.png",
     "longName": "Seedify.fund USD",
-    "price": "1.3380"
+    "price": "1.3373"
   },
   {
     "shortName": "MLK-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5266.png",
     "longName": "MiL.k USD",
-    "price": "0.210070"
+    "price": "0.210387"
   },
   {
     "shortName": "OMNI30315-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/30315.png",
     "longName": "Omni Network USD",
-    "price": "9.0774"
+    "price": "9.0851"
   },
   {
     "shortName": "ALICE-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8766.png",
     "longName": "MyNeighborAlice USD",
-    "price": "1.2195"
+    "price": "1.2174"
   },
   {
     "shortName": "MED-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2303.png",
     "longName": "MediBloc USD",
-    "price": "0.008665"
+    "price": "0.008680"
   },
   {
     "shortName": "AGLD-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/11568.png",
     "longName": "Adventure Gold USD",
-    "price": "1.0642"
+    "price": "1.0656"
   },
   {
     "shortName": "CTK4807-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4807.png",
     "longName": "Shentu USD",
-    "price": "0.58945"
+    "price": "0.594567"
   },
   {
     "shortName": "ZANO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4691.png",
     "longName": "Zano USD",
-    "price": "6.1035"
+    "price": "6.1040"
   },
   {
     "shortName": "WTAO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/23528.png",
     "longName": "Wrapped TAO USD",
-    "price": "551.20"
+    "price": "550.06"
   },
   {
     "shortName": "SNEK25264-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/25264.png",
     "longName": "Snek USD",
-    "price": "0.001111"
+    "price": "0.001112"
   },
   {
     "shortName": "WISLM-USD",
@@ -2763,49 +2763,49 @@
     "shortName": "ANYONE-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/32037.png",
     "longName": "ANyONe Protocol USD",
-    "price": "0.878583"
+    "price": "0.878176"
   },
   {
     "shortName": "ISLM-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/26220.png",
     "longName": "Islamic Coin USD",
-    "price": "0.068344"
+    "price": "0.068129"
   },
   {
     "shortName": "BTRST-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/11584.png",
     "longName": "Braintrust USD",
-    "price": "0.344866"
+    "price": "0.344858"
   },
   {
     "shortName": "MOBILE-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/24600.png",
     "longName": "Helium Mobile USD",
-    "price": "0.000892"
+    "price": "0.000893"
   },
   {
     "shortName": "WOJAK-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/24502.png",
     "longName": "Wojak USD",
-    "price": "0.001147"
+    "price": "0.001140"
   },
   {
     "shortName": "MPL-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/9417.png",
     "longName": "Maple USD",
-    "price": "18.00"
+    "price": "18.05"
   },
   {
     "shortName": "LQTY-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7429.png",
     "longName": "Liquity USD",
-    "price": "0.844940"
+    "price": "0.844456"
   },
   {
     "shortName": "AGRS-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1037.png",
     "longName": "Agoras: Currency of Tau USD",
-    "price": "2.6388"
+    "price": "2.6228"
   },
   {
     "shortName": "ELON-USD",
@@ -2823,97 +2823,97 @@
     "shortName": "MAV-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/18037.png",
     "longName": "Maverick Protocol USD",
-    "price": "0.182127"
+    "price": "0.181657"
   },
   {
     "shortName": "BAKE-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7064.png",
     "longName": "BakeryToken USD",
-    "price": "0.269306"
+    "price": "0.269389"
   },
   {
     "shortName": "ALI16876-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/16876.png",
     "longName": "Artificial Liquid Intelligence USD",
-    "price": "0.009482"
+    "price": "0.009476"
   },
   {
     "shortName": "WOLF30902-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/30902.png",
     "longName": "Landwolf 0x67 USD",
-    "price": "0.000085"
+    "price": "0.000084"
   },
   {
     "shortName": "HIFI23037-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/23037.png",
     "longName": "Hifi Finance USD",
-    "price": "0.552880"
+    "price": "0.552846"
   },
   {
     "shortName": "ARPA-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4039.png",
     "longName": "ARPA USD",
-    "price": "0.050388"
+    "price": "0.050405"
   },
   {
     "shortName": "VELO20435-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/20435.png",
     "longName": "Velodrome Finance USD",
-    "price": "0.090578"
+    "price": "0.090772"
   },
   {
     "shortName": "WFTM-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/10240.png",
     "longName": "Wrapped Fantom USD",
-    "price": "0.709358"
+    "price": "0.710531"
   },
   {
     "shortName": "REQ-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2071.png",
     "longName": "Request USD",
-    "price": "0.098802"
+    "price": "0.098874"
   },
   {
     "shortName": "KARRAT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/30825.png",
     "longName": "KARRAT USD",
-    "price": "0.526241"
+    "price": "0.527985"
   },
   {
     "shortName": "ALLBI-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5024.png",
     "longName": "ALL BEST ICO USD",
-    "price": "0.056603"
+    "price": "0.056811"
   },
   {
     "shortName": "ZKJ-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/29779.png",
     "longName": "Polyhedra Network USD",
-    "price": "1.1122"
+    "price": "1.1121"
   },
   {
     "shortName": "VERUM-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/30915.png",
     "longName": "Verum Coin USD",
-    "price": "797.55"
+    "price": "795.17"
   },
   {
     "shortName": "TET-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/21964.png",
     "longName": "Tectum USD",
-    "price": "9.7656"
+    "price": "9.8750"
   },
   {
     "shortName": "ORN-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5631.png",
     "longName": "Orion USD",
-    "price": "1.2813"
+    "price": "1.0695"
   },
   {
     "shortName": "BZR-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/24554.png",
     "longName": "Bazaars USD",
-    "price": "6.3301"
+    "price": "6.3261"
   },
   {
     "shortName": "WEN29175-USD",
@@ -2925,7 +2925,7 @@
     "shortName": "WILD-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/9674.png",
     "longName": "Wilder World USD",
-    "price": "0.232728"
+    "price": "0.232633"
   },
   {
     "shortName": "STTON-USD",
@@ -2937,103 +2937,103 @@
     "shortName": "GUSD-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3306.png",
     "longName": "Gemini Dollar USD",
-    "price": "0.999904"
+    "price": "0.999518"
   },
   {
     "shortName": "NMT29447-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/29447.png",
     "longName": "NetMind Token USD",
-    "price": "2.1473"
+    "price": "2.1438"
   },
   {
     "shortName": "BASEDAI-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/30584.png",
     "longName": "BasedAI USD",
-    "price": "2.0730"
+    "price": "2.0824"
   },
   {
     "shortName": "HFT22461-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/22461.png",
     "longName": "Hashflow USD",
-    "price": "0.155090"
+    "price": "0.155570"
   },
   {
     "shortName": "STRD-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/21781.png",
     "longName": "Stride USD",
-    "price": "0.805649"
+    "price": "0.805430"
   },
   {
     "shortName": "LUSD-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/9566.png",
     "longName": "Liquity USD USD",
-    "price": "0.998058"
+    "price": "0.998271"
   },
   {
     "shortName": "ZBCN-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/30636.png",
     "longName": "Zebec Network USD",
-    "price": "0.001083"
+    "price": "0.001084"
   },
   {
     "shortName": "CET-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2941.png",
     "longName": "CoinEx Token USD",
-    "price": "0.098932"
+    "price": "0.099094"
   },
   {
     "shortName": "OXT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5026.png",
     "longName": "Orchid USD",
-    "price": "0.071531"
+    "price": "0.071765"
   },
   {
     "shortName": "RDNT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/21106.png",
     "longName": "Radiant Capital USD",
-    "price": "0.061104"
+    "price": "0.061028"
   },
   {
     "shortName": "USDX6651-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6651.png",
     "longName": "USDX [Kava] USD",
-    "price": "0.626074"
+    "price": "0.593639"
   },
   {
     "shortName": "MATH-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5616.png",
     "longName": "MATH USD",
-    "price": "0.607297"
+    "price": "0.606989"
   },
   {
     "shortName": "DIONE-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/21473.png",
     "longName": "Dione Protocol USD",
-    "price": "0.007143"
+    "price": "0.007138"
   },
   {
     "shortName": "CROWN25714-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/25714.png",
     "longName": "Crown by Third Time Games USD",
-    "price": "0.362041"
+    "price": "0.361537"
   },
   {
     "shortName": "STMX-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2297.png",
     "longName": "StormX USD",
-    "price": "0.005607"
+    "price": "0.005602"
   },
   {
     "shortName": "BUSD-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4687.png",
     "longName": "BUSD USD",
-    "price": "0.999871"
+    "price": "0.999774"
   },
   {
     "shortName": "TAI20605-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/20605.png",
     "longName": "TARS AI USD",
-    "price": "0.125485"
+    "price": "0.125163"
   },
   {
     "shortName": "AIDOGE-USD",
@@ -3045,133 +3045,133 @@
     "shortName": "REZ-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/30843.png",
     "longName": "Renzo USD",
-    "price": "0.041406"
+    "price": "0.041651"
   },
   {
     "shortName": "APEX19843-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/19843.png",
     "longName": "ApeX Protocol USD",
-    "price": "1.4039"
+    "price": "1.4018"
   },
   {
     "shortName": "DADDY31830-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/31830.png",
     "longName": "Daddy Tate USD",
-    "price": "0.112294"
+    "price": "0.112796"
   },
   {
     "shortName": "LOOM-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2588.png",
     "longName": "Loom Network USD",
-    "price": "0.054327"
+    "price": "0.054399"
   },
   {
     "shortName": "COL20672-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/20672.png",
     "longName": "Clash of Lilliput USD",
-    "price": "0.819710"
+    "price": "0.819435"
   },
   {
     "shortName": "VSUI-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/29401.png",
     "longName": "Volo Staked SUI USD",
-    "price": "2.0021"
+    "price": "2.0012"
   },
   {
     "shortName": "LEVER-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/20873.png",
     "longName": "LeverFi USD",
-    "price": "0.002006"
+    "price": "0.002007"
   },
   {
     "shortName": "XVG-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/693.png",
     "longName": "Verge USD",
-    "price": "0.004064"
+    "price": "0.004063"
   },
   {
     "shortName": "ACA-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6756.png",
     "longName": "Acala Token USD",
-    "price": "0.061939"
+    "price": "0.062060"
   },
   {
     "shortName": "SDEX-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/24203.png",
     "longName": "SmarDex USD",
-    "price": "0.007666"
+    "price": "0.007667"
   },
   {
     "shortName": "BOBO25269-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/25269.png",
     "longName": "BOBO USD",
-    "price": "0.00000101"
+    "price": "0.00000102"
   },
   {
     "shortName": "NFP28778-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/28778.png",
     "longName": "NFPrompt USD",
-    "price": "0.227762"
+    "price": "0.228003"
   },
   {
     "shortName": "GPU-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/29513.png",
     "longName": "Node AI USD",
-    "price": "0.701399"
+    "price": "0.704943"
   },
   {
     "shortName": "QI9288-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/9288.png",
     "longName": "BENQI USD",
-    "price": "0.013508"
+    "price": "0.013497"
   },
   {
     "shortName": "WCRO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/14532.png",
     "longName": "Wrapped CRO USD",
-    "price": "0.077027"
+    "price": "0.077016"
   },
   {
     "shortName": "MBX18895-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/18895.png",
     "longName": "MARBLEX USD",
-    "price": "0.381551"
+    "price": "0.379650"
   },
   {
     "shortName": "BNT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1727.png",
     "longName": "Bancor USD",
-    "price": "0.529099"
+    "price": "0.529930"
   },
   {
     "shortName": "LISTA-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/21533.png",
     "longName": "Lista DAO USD",
-    "price": "0.369502"
+    "price": "0.370921"
   },
   {
     "shortName": "XPLA-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/22359.png",
     "longName": "XPLA USD",
-    "price": "0.094247"
+    "price": "0.094267"
   },
   {
     "shortName": "MBOX-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/9175.png",
     "longName": "MOBOX USD",
-    "price": "0.166836"
+    "price": "0.166607"
   },
   {
     "shortName": "AL-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/22765.png",
     "longName": "ArchLoot USD",
-    "price": "0.124079"
+    "price": "0.124223"
   },
   {
     "shortName": "EVER-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7505.png",
     "longName": "Everscale USD",
-    "price": "0.032567"
+    "price": "0.032572"
   },
   {
     "shortName": "PORK29220-USD",
@@ -3183,37 +3183,37 @@
     "shortName": "KOKO30089-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/30089.png",
     "longName": "Koala AI USD",
-    "price": "0.00000702"
+    "price": "0.00000723"
   },
   {
     "shortName": "GODS-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/10631.png",
     "longName": "Gods Unchained USD",
-    "price": "0.197175"
+    "price": "0.196595"
   },
   {
     "shortName": "ALEPH-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5821.png",
     "longName": "Aleph.im USD",
-    "price": "0.257713"
+    "price": "0.258623"
   },
   {
     "shortName": "GNS-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/13663.png",
     "longName": "Gains Network USD",
-    "price": "1.9056"
+    "price": "1.9076"
   },
   {
     "shortName": "FIRE29273-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/29273.png",
     "longName": "Matr1x Fire USD",
-    "price": "0.941524"
+    "price": "0.941495"
   },
   {
     "shortName": "MANEKI30912-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/30912.png",
     "longName": "MANEKI USD",
-    "price": "0.007440"
+    "price": "0.007445"
   },
   {
     "shortName": "LADYS-USD",
@@ -3225,67 +3225,67 @@
     "shortName": "AURORA14803-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/14803.png",
     "longName": "Aurora USD",
-    "price": "0.117371"
+    "price": "0.117588"
   },
   {
     "shortName": "CRVUSD-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/24927.png",
     "longName": "crvUSD USD",
-    "price": "0.998127"
+    "price": "0.998172"
   },
   {
     "shortName": "SCRT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5604.png",
     "longName": "Secret USD",
-    "price": "0.212190"
+    "price": "0.211993"
   },
   {
     "shortName": "MYRIA22289-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/22289.png",
     "longName": "Myria USD",
-    "price": "0.002599"
+    "price": "0.002589"
   },
   {
     "shortName": "FIDA-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7978.png",
     "longName": "Solana Name Service USD",
-    "price": "0.248581"
+    "price": "0.248897"
   },
   {
     "shortName": "AEUR-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/28596.png",
     "longName": "Anchored Coins AEUR USD",
-    "price": "1.0800"
+    "price": "1.0801"
   },
   {
     "shortName": "QKC-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2840.png",
     "longName": "QuarkChain USD",
-    "price": "0.008733"
+    "price": "0.008732"
   },
   {
     "shortName": "BADGER-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7859.png",
     "longName": "Badger DAO USD",
-    "price": "3.0224"
+    "price": "3.0302"
   },
   {
     "shortName": "MOTHER-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/31510.png",
     "longName": "Mother Iggy USD",
-    "price": "0.061658"
+    "price": "0.061816"
   },
   {
     "shortName": "TKO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/9020.png",
     "longName": "Toko Token USD",
-    "price": "0.358231"
+    "price": "0.359321"
   },
   {
     "shortName": "STG18934-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/18934.png",
     "longName": "Stargate Finance USD",
-    "price": "0.295124"
+    "price": "0.295437"
   },
   {
     "shortName": "MAGA31305-USD",
@@ -3297,85 +3297,85 @@
     "shortName": "RAD-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6843.png",
     "longName": "Radworks USD",
-    "price": "1.1615"
+    "price": "1.1656"
   },
   {
     "shortName": "GTC10052-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/10052.png",
     "longName": "Gitcoin USD",
-    "price": "0.699971"
+    "price": "0.701020"
   },
   {
     "shortName": "OGN-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5117.png",
     "longName": "Origin Protocol USD",
-    "price": "0.088823"
+    "price": "0.088783"
   },
   {
     "shortName": "VBUSD-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7959.png",
     "longName": "Venus BUSD USD",
-    "price": "0.022303"
+    "price": "0.022301"
   },
   {
     "shortName": "WMATIC-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8925.png",
     "longName": "Wrapped Matic USD",
-    "price": "0.366043"
+    "price": "0.366307"
   },
   {
     "shortName": "NKN-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2780.png",
     "longName": "NKN USD",
-    "price": "0.076808"
+    "price": "0.076927"
   },
   {
     "shortName": "BLZ-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2505.png",
     "longName": "Bluzelle USD",
-    "price": "0.133307"
+    "price": "0.133423"
   },
   {
     "shortName": "BFC7817-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7817.png",
     "longName": "Bifrost USD",
-    "price": "0.042844"
+    "price": "0.042458"
   },
   {
     "shortName": "POLY-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2496.png",
     "longName": "Polymath USD",
-    "price": "0.063528"
+    "price": "0.064735"
   },
   {
     "shortName": "AA-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/25354.png",
     "longName": "A3S Protocol USD",
-    "price": "0.244889"
+    "price": "0.245098"
   },
   {
     "shortName": "REI19819-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/19819.png",
     "longName": "REI Network USD",
-    "price": "0.061471"
+    "price": "0.061340"
   },
   {
     "shortName": "OLAS-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/28458.png",
     "longName": "Autonolas USD",
-    "price": "1.2387"
+    "price": "1.2379"
   },
   {
     "shortName": "JSOL-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/14926.png",
     "longName": "JPool Staked SOL (JSOL) USD",
-    "price": "204.01"
+    "price": "203.97"
   },
   {
     "shortName": "DAO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8420.png",
     "longName": "DAO Maker USD",
-    "price": "0.297708"
+    "price": "0.298286"
   },
   {
     "shortName": "TOSHI27750-USD",
@@ -3387,19 +3387,19 @@
     "shortName": "ALEX-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/22074.png",
     "longName": "ALEX Lab USD",
-    "price": "0.094079"
+    "price": "0.093641"
   },
   {
     "shortName": "FX-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3884.png",
     "longName": "Function X USD",
-    "price": "0.138561"
+    "price": "0.138546"
   },
   {
     "shortName": "FORT20622-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/20622.png",
     "longName": "Forta USD",
-    "price": "0.117398"
+    "price": "0.117429"
   },
   {
     "shortName": "PEIPEI31632-USD",
@@ -3411,37 +3411,37 @@
     "shortName": "MCOIN23046-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/23046.png",
     "longName": "mCoin USD",
-    "price": "0.316591"
+    "price": "0.316584"
   },
   {
     "shortName": "TRIBL-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/19009.png",
     "longName": "Tribal Finance USD",
-    "price": "0.709014"
+    "price": "0.708140"
   },
   {
     "shortName": "GHX-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6554.png",
     "longName": "GamerCoin USD",
-    "price": "0.085720"
+    "price": "0.086160"
   },
   {
     "shortName": "ZCX-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/9263.png",
     "longName": "Unizen USD",
-    "price": "0.080031"
+    "price": "0.080321"
   },
   {
     "shortName": "DMTR-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/12041.png",
     "longName": "Dimitra USD",
-    "price": "0.113525"
+    "price": "0.113629"
   },
   {
     "shortName": "NYM-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/17591.png",
     "longName": "NYM USD",
-    "price": "0.068631"
+    "price": "0.068748"
   },
   {
     "shortName": "ACS23195-USD",
@@ -3453,115 +3453,115 @@
     "shortName": "DESO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/10442.png",
     "longName": "Decentralized Social USD",
-    "price": "6.1243"
+    "price": "6.1732"
   },
   {
     "shortName": "HPO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3600.png",
     "longName": "Hippocrat USD",
-    "price": "0.052533"
+    "price": "0.052480"
   },
   {
     "shortName": "KUJI-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/15185.png",
     "longName": "Kujira USD",
-    "price": "0.443685"
+    "price": "0.444218"
   },
   {
     "shortName": "LTO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3714.png",
     "longName": "LTO Network USD",
-    "price": "0.124824"
+    "price": "0.125440"
   },
   {
     "shortName": "PNG-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8422.png",
     "longName": "Pangolin USD",
-    "price": "0.247025"
+    "price": "0.247861"
   },
   {
     "shortName": "MAVIA-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/28829.png",
     "longName": "Heroes of Mavia USD",
-    "price": "1.6282"
+    "price": "1.6181"
   },
   {
     "shortName": "GAME31246-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/31246.png",
     "longName": "GameBuild USD",
-    "price": "0.003365"
+    "price": "0.003372"
   },
   {
     "shortName": "HASUI-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/29402.png",
     "longName": "Haedal Staked SUI USD",
-    "price": "2.0235"
+    "price": "2.0234"
   },
   {
     "shortName": "ATA-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/10188.png",
     "longName": "Automata Network USD",
-    "price": "0.098231"
+    "price": "0.098177"
   },
   {
     "shortName": "ERN-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8615.png",
     "longName": "Ethernity USD",
-    "price": "2.3751"
+    "price": "2.3818"
   },
   {
     "shortName": "GFI13967-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/13967.png",
     "longName": "Goldfinch USD",
-    "price": "1.8120"
+    "price": "1.8121"
   },
   {
     "shortName": "TLM-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/9119.png",
     "longName": "Alien Worlds USD",
-    "price": "0.011240"
+    "price": "0.011238"
   },
   {
     "shortName": "ASM-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6069.png",
     "longName": "Assemble AI USD",
-    "price": "0.034722"
+    "price": "0.034245"
   },
   {
     "shortName": "SHDW16868-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/16868.png",
     "longName": "Shadow Token USD",
-    "price": "0.321995"
+    "price": "0.323350"
   },
   {
     "shortName": "GHST-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7046.png",
     "longName": "Aavegotchi USD",
-    "price": "0.981365"
+    "price": "0.983056"
   },
   {
     "shortName": "CTXC-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2638.png",
     "longName": "Cortex USD",
-    "price": "0.228952"
+    "price": "0.229425"
   },
   {
     "shortName": "TOKEN28299-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/28299.png",
     "longName": "TokenFi USD",
-    "price": "0.051202"
+    "price": "0.051954"
   },
   {
     "shortName": "ERG-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1762.png",
     "longName": "Ergo USD",
-    "price": "0.650513"
+    "price": "0.650531"
   },
   {
     "shortName": "PROPS28385-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/28385.png",
     "longName": "Propbase USD",
-    "price": "0.134313"
+    "price": "0.134518"
   },
   {
     "shortName": "BTCP-USD",
@@ -3573,37 +3573,37 @@
     "shortName": "DEAI-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/29734.png",
     "longName": "Zero1 Labs USD",
-    "price": "0.552467"
+    "price": "0.554379"
   },
   {
     "shortName": "AOG-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3316.png",
     "longName": "smARTOFGIVING USD",
-    "price": "0.682545"
+    "price": "0.682585"
   },
   {
     "shortName": "LAT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/9720.png",
     "longName": "PlatON USD",
-    "price": "0.008333"
+    "price": "0.008310"
   },
   {
     "shortName": "CBK-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8107.png",
     "longName": "Cobak Token USD",
-    "price": "0.565000"
+    "price": "0.565120"
   },
   {
     "shortName": "TON-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6731.png",
     "longName": "Tokamak Network USD",
-    "price": "1.1328"
+    "price": "1.1353"
   },
   {
     "shortName": "AERGO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3637.png",
     "longName": "Aergo USD",
-    "price": "0.106539"
+    "price": "0.106464"
   },
   {
     "shortName": "DEXT-USD",
@@ -3615,61 +3615,61 @@
     "shortName": "STMATIC-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/18688.png",
     "longName": "Lido Staked Matic USD",
-    "price": "0.416935"
+    "price": "0.417866"
   },
   {
     "shortName": "TNSR-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/30449.png",
     "longName": "Tensor USD",
-    "price": "0.391600"
+    "price": "0.391754"
   },
   {
     "shortName": "MBL-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4038.png",
     "longName": "MovieBloc USD",
-    "price": "0.002723"
+    "price": "0.002726"
   },
   {
     "shortName": "IAG-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/11078.png",
     "longName": "IAGON USD",
-    "price": "0.129857"
+    "price": "0.129761"
   },
   {
     "shortName": "REEF-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6951.png",
     "longName": "Reef USD",
-    "price": "0.002127"
+    "price": "0.002122"
   },
   {
     "shortName": "ATLAS-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/11212.png",
     "longName": "Star Atlas USD",
-    "price": "0.002835"
+    "price": "0.002831"
   },
   {
     "shortName": "MCT16946-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/16946.png",
     "longName": "Metacraft USD",
-    "price": "0.910780"
+    "price": "0.910820"
   },
   {
     "shortName": "PERP-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6950.png",
     "longName": "Perpetual Protocol USD",
-    "price": "0.721954"
+    "price": "0.721372"
   },
   {
     "shortName": "DPI-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7055.png",
     "longName": "DeFi Pulse Index USD",
-    "price": "84.85"
+    "price": "83.33"
   },
   {
     "shortName": "ZEON-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3795.png",
     "longName": "ZEON USD",
-    "price": "0.001553"
+    "price": "0.001558"
   },
   {
     "shortName": "MLN-USD",
@@ -3681,79 +3681,79 @@
     "shortName": "UQC-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2273.png",
     "longName": "Uquid Coin USD",
-    "price": "4.7116"
+    "price": "4.7081"
   },
   {
     "shortName": "LOOKS-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/17081.png",
     "longName": "LooksRare USD",
-    "price": "0.046547"
+    "price": "0.045846"
   },
   {
     "shortName": "BWB31503-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/31503.png",
     "longName": "Bitget Wallet Token USD",
-    "price": "0.324639"
+    "price": "0.324502"
   },
   {
     "shortName": "WRX-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5161.png",
     "longName": "WazirX USD",
-    "price": "0.120520"
+    "price": "0.120585"
   },
   {
     "shortName": "GEOD-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/20969.png",
     "longName": "GEODNET USD",
-    "price": "0.232199"
+    "price": "0.232201"
   },
   {
     "shortName": "META-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3418.png",
     "longName": "Metadium USD",
-    "price": "0.026999"
+    "price": "0.027002"
   },
   {
     "shortName": "VCNT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/28656.png",
     "longName": "ViciCoin USD",
-    "price": "20.17"
+    "price": "20.14"
   },
   {
     "shortName": "LMWR-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/24476.png",
     "longName": "LimeWire USD",
-    "price": "0.153553"
+    "price": "0.153870"
   },
   {
     "shortName": "OGY-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/17960.png",
     "longName": "ORIGYN USD",
-    "price": "0.005836"
+    "price": "0.005838"
   },
   {
     "shortName": "ULTI31504-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/31504.png",
     "longName": "Ultiverse USD",
-    "price": "0.017990"
+    "price": "0.018055"
   },
   {
     "shortName": "MAPO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4956.png",
     "longName": "MAP Protocol USD",
-    "price": "0.008806"
+    "price": "0.008813"
   },
   {
     "shortName": "SHFL-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/29960.png",
     "longName": "Shuffle USD",
-    "price": "0.427168"
+    "price": "0.427344"
   },
   {
     "shortName": "OCTA24261-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/24261.png",
     "longName": "OctaSpace USD",
-    "price": "1.3652"
+    "price": "1.3699"
   },
   {
     "shortName": "SETH2-USD",
@@ -3765,25 +3765,25 @@
     "shortName": "SWEAT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/21351.png",
     "longName": "Sweat Economy USD",
-    "price": "0.006611"
+    "price": "0.006648"
   },
   {
     "shortName": "RARI-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5877.png",
     "longName": "RARI USD",
-    "price": "1.8337"
+    "price": "1.8320"
   },
   {
     "shortName": "WNXM-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5939.png",
     "longName": "Wrapped NXM USD",
-    "price": "57.89"
+    "price": "56.88"
   },
   {
     "shortName": "FORTH-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/9421.png",
     "longName": "Ampleforth Governance Token USD",
-    "price": "3.0590"
+    "price": "3.0598"
   },
   {
     "shortName": "HBTC-USD",
@@ -3801,91 +3801,91 @@
     "shortName": "PIRATE31704-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/31704.png",
     "longName": "Pirate Nation USD",
-    "price": "0.181770"
+    "price": "0.181603"
   },
   {
     "shortName": "LOCUS-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3855.png",
     "longName": "Locus Chain USD",
-    "price": "0.020686"
+    "price": "0.020691"
   },
   {
     "shortName": "RBN-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/12387.png",
     "longName": "Ribbon Finance USD",
-    "price": "0.372297"
+    "price": "0.374671"
   },
   {
     "shortName": "LYX-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/27622.png",
     "longName": "LUKSO USD",
-    "price": "1.4052"
+    "price": "1.4050"
   },
   {
     "shortName": "HASHAI-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/30369.png",
     "longName": "HashAI USD",
-    "price": "0.000507"
+    "price": "0.000513"
   },
   {
     "shortName": "EUL-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/14280.png",
     "longName": "Euler USD",
-    "price": "2.7026"
+    "price": "2.7041"
   },
   {
     "shortName": "CETUS-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/25114.png",
     "longName": "Cetus Protocol USD",
-    "price": "0.152283"
+    "price": "0.152124"
   },
   {
     "shortName": "DEGO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7087.png",
     "longName": "Dego Finance USD",
-    "price": "2.0246"
+    "price": "2.0242"
   },
   {
     "shortName": "PXT24346-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/24346.png",
     "longName": "Pixer Eternity USD",
-    "price": "0.013601"
+    "price": "0.013582"
   },
   {
     "shortName": "SIDUS-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/15463.png",
     "longName": "SIDUS USD",
-    "price": "0.004499"
+    "price": "0.004505"
   },
   {
     "shortName": "NEURAL-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/30528.png",
     "longName": "NeuralAI USD",
-    "price": "4.2038"
+    "price": "4.1971"
   },
   {
     "shortName": "EWT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5268.png",
     "longName": "Energy Web Token USD",
-    "price": "1.3492"
+    "price": "1.3530"
   },
   {
     "shortName": "BEL-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6928.png",
     "longName": "Bella Protocol USD",
-    "price": "0.568124"
+    "price": "0.567433"
   },
   {
     "shortName": "ANKRETH-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8100.png",
     "longName": "Ankr Staked ETH USD",
-    "price": "3,075.44"
+    "price": "3,083.38"
   },
   {
     "shortName": "ACX22620-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/22620.png",
     "longName": "Across Protocol USD",
-    "price": "0.296110"
+    "price": "0.297882"
   },
   {
     "shortName": "WIOTX-USD",
@@ -3897,193 +3897,193 @@
     "shortName": "10SET-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/9089.png",
     "longName": "Tenset USD",
-    "price": "0.290672"
+    "price": "0.290674"
   },
   {
     "shortName": "ELA-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2492.png",
     "longName": "Elastos USD",
-    "price": "1.8122"
+    "price": "1.8123"
   },
   {
     "shortName": "ETN-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2137.png",
     "longName": "Electroneum USD",
-    "price": "0.002227"
+    "price": "0.002236"
   },
   {
     "shortName": "PSG-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5226.png",
     "longName": "Paris Saint-Germain Fan Token USD",
-    "price": "3.3007"
+    "price": "3.2829"
   },
   {
     "shortName": "XPRT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7281.png",
     "longName": "Persistence One USD",
-    "price": "0.186928"
+    "price": "0.187370"
   },
   {
     "shortName": "EURT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/10789.png",
     "longName": "Tether EURt USD",
-    "price": "1.0762"
+    "price": "1.0763"
   },
   {
     "shortName": "ADS11036-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/11036.png",
     "longName": "Alkimi USD",
-    "price": "0.165231"
+    "price": "0.163113"
   },
   {
     "shortName": "DATA-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2143.png",
     "longName": "Streamr USD",
-    "price": "0.036416"
+    "price": "0.036427"
   },
   {
     "shortName": "LIT6833-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/6833.png",
     "longName": "Litentry USD",
-    "price": "0.691701"
+    "price": "0.691681"
   },
   {
     "shortName": "ICE27650-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/27650.png",
     "longName": "Ice Open Network USD",
-    "price": "0.005819"
+    "price": "0.005822"
   },
   {
     "shortName": "REN-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2539.png",
     "longName": "Ren USD",
-    "price": "0.038457"
+    "price": "0.038497"
   },
   {
     "shortName": "BETA-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/11307.png",
     "longName": "Beta Finance USD",
-    "price": "0.044163"
+    "price": "0.044199"
   },
   {
     "shortName": "COS-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4036.png",
     "longName": "Contentos USD",
-    "price": "0.007319"
+    "price": "0.007327"
   },
   {
     "shortName": "GFAL-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/23397.png",
     "longName": "Games for a Living USD",
-    "price": "0.012068"
+    "price": "0.012065"
   },
   {
     "shortName": "BOSON-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8827.png",
     "longName": "Boson Protocol USD",
-    "price": "0.279337"
+    "price": "0.280088"
   },
   {
     "shortName": "HYPC-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/24698.png",
     "longName": "HyperCycle USD",
-    "price": "0.242139"
+    "price": "0.243778"
   },
   {
     "shortName": "NULS-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2092.png",
     "longName": "NULS USD",
-    "price": "0.340152"
+    "price": "0.345566"
   },
   {
     "shortName": "FLM-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7150.png",
     "longName": "Flamingo USD",
-    "price": "0.059322"
+    "price": "0.059447"
   },
   {
     "shortName": "TT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3930.png",
     "longName": "ThunderCore USD",
-    "price": "0.003302"
+    "price": "0.003305"
   },
   {
     "shortName": "BILLY31914-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/31914.png",
     "longName": "Billy USD",
-    "price": "0.039851"
+    "price": "0.040574"
   },
   {
     "shortName": "OMG-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1808.png",
     "longName": "OMG Network USD",
-    "price": "0.266006"
+    "price": "0.266255"
   },
   {
     "shortName": "SBD-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1312.png",
     "longName": "Steem Dollars USD",
-    "price": "2.7129"
+    "price": "2.7100"
   },
   {
     "shortName": "POLIS11213-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/11213.png",
     "longName": "Star Atlas DAO USD",
-    "price": "0.139331"
+    "price": "0.139396"
   },
   {
     "shortName": "WAN-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2606.png",
     "longName": "Wanchain USD",
-    "price": "0.185019"
+    "price": "0.185151"
   },
   {
     "shortName": "HAI-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5583.png",
     "longName": "Hacken Token USD",
-    "price": "0.043363"
+    "price": "0.042895"
   },
   {
     "shortName": "HUNT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5380.png",
     "longName": "Hunt Town USD",
-    "price": "0.289608"
+    "price": "0.290314"
   },
   {
     "shortName": "STRK-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8911.png",
     "longName": "Strike USD",
-    "price": "6.8394"
+    "price": "6.8453"
   },
   {
     "shortName": "VUSDT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7957.png",
     "longName": "Venus USDT USD",
-    "price": "0.024442"
+    "price": "0.024444"
   },
   {
     "shortName": "FUN-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1757.png",
     "longName": "FUNToken USD",
-    "price": "0.003335"
+    "price": "0.003339"
   },
   {
     "shortName": "LOKA-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/17145.png",
     "longName": "League of Kingdoms Arena USD",
-    "price": "0.202799"
+    "price": "0.203087"
   },
   {
     "shortName": "VOXEL-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/15678.png",
     "longName": "Voxies USD",
-    "price": "0.174623"
+    "price": "0.175265"
   },
   {
     "shortName": "WSEI-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/31773.png",
     "longName": "Wrapped Sei USD",
-    "price": "0.431696"
+    "price": "0.431693"
   },
   {
     "shortName": "RAMP-USD",
@@ -4095,61 +4095,61 @@
     "shortName": "BOBA-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/14556.png",
     "longName": "Boba Network USD",
-    "price": "0.207592"
+    "price": "0.207631"
   },
   {
     "shortName": "VIC-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/20559.png",
     "longName": "VICSTEP USD",
-    "price": "0.367545"
+    "price": "0.367866"
   },
   {
     "shortName": "CUSD-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7236.png",
     "longName": "Celo Dollar USD",
-    "price": "0.999995"
+    "price": "1.0000"
   },
   {
     "shortName": "WHITE-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8120.png",
     "longName": "Whiteheart USD",
-    "price": "3,989.64"
+    "price": "3,986.64"
   },
   {
     "shortName": "SOLO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5279.png",
     "longName": "Sologenic USD",
-    "price": "0.088519"
+    "price": "0.088504"
   },
   {
     "shortName": "DNT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1856.png",
     "longName": "district0x USD",
-    "price": "0.034629"
+    "price": "0.034846"
   },
   {
     "shortName": "FIS-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5882.png",
     "longName": "StaFi USD",
-    "price": "0.337570"
+    "price": "0.337593"
   },
   {
     "shortName": "UOS-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4189.png",
     "longName": "Ultra USD",
-    "price": "0.090169"
+    "price": "0.089857"
   },
   {
     "shortName": "CCD-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/18031.png",
     "longName": "Concordium USD",
-    "price": "0.003524"
+    "price": "0.003525"
   },
   {
     "shortName": "DNX-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/22858.png",
     "longName": "Dynex USD",
-    "price": "0.361777"
+    "price": "0.361287"
   },
   {
     "shortName": "QUACK-USD",
@@ -4161,31 +4161,31 @@
     "shortName": "NCT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2630.png",
     "longName": "PolySwarm USD",
-    "price": "0.018441"
+    "price": "0.018368"
   },
   {
     "shortName": "FLIX-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/24645.png",
     "longName": "OmniFlix Network USD",
-    "price": "0.138530"
+    "price": "0.138146"
   },
   {
     "shortName": "BOTTO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/14345.png",
     "longName": "Botto USD",
-    "price": "0.712413"
+    "price": "0.710533"
   },
   {
     "shortName": "ALCX-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8613.png",
     "longName": "Alchemix USD",
-    "price": "14.87"
+    "price": "14.91"
   },
   {
     "shortName": "DF-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4758.png",
     "longName": "dForce USD",
-    "price": "0.034349"
+    "price": "0.034353"
   },
   {
     "shortName": "CAW30402-USD",
@@ -4197,79 +4197,79 @@
     "shortName": "SELFIE-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/31601.png",
     "longName": "SelfieDogCoin USD",
-    "price": "0.034859"
+    "price": "0.036048"
   },
   {
     "shortName": "KMD-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/1521.png",
     "longName": "Komodo USD",
-    "price": "0.252068"
+    "price": "0.252225"
   },
   {
     "shortName": "FCT4953-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4953.png",
     "longName": "FirmaChain USD",
-    "price": "0.037543"
+    "price": "0.037526"
   },
   {
     "shortName": "ARRR-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3951.png",
     "longName": "Pirate Chain USD",
-    "price": "0.174311"
+    "price": "0.173322"
   },
   {
     "shortName": "UPP-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2866.png",
     "longName": "Sentinel Protocol USD",
-    "price": "0.068071"
+    "price": "0.068304"
   },
   {
     "shortName": "VR-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/14822.png",
     "longName": "Victoria VR USD",
-    "price": "0.006355"
+    "price": "0.006356"
   },
   {
     "shortName": "CLV-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/8384.png",
     "longName": "CLV USD",
-    "price": "0.033084"
+    "price": "0.033065"
   },
   {
     "shortName": "GROK28394-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/28394.png",
     "longName": "Grok USD",
-    "price": "0.005219"
+    "price": "0.005260"
   },
   {
     "shortName": "VXVS-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7960.png",
     "longName": "Venus XVS USD",
-    "price": "0.14624"
+    "price": "0.146186"
   },
   {
     "shortName": "GAFI-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/11783.png",
     "longName": "GameFi.org USD",
-    "price": "2.9860"
+    "price": "3.0033"
   },
   {
     "shortName": "USDBC-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/27763.png",
     "longName": "Bridged USDC USD",
-    "price": "0.997975"
+    "price": "0.998859"
   },
   {
     "shortName": "AMPL-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4056.png",
     "longName": "Ampleforth USD",
-    "price": "1.1537"
+    "price": "1.1534"
   },
   {
     "shortName": "WCFG-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/10898.png",
     "longName": "Wrapped Centrifuge USD",
-    "price": "0.312196"
+    "price": "0.311105"
   },
   {
     "shortName": "KENDU-USD",
@@ -4281,13 +4281,13 @@
     "shortName": "GEL-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/7229.png",
     "longName": "Gelato USD",
-    "price": "0.152801"
+    "price": "0.152623"
   },
   {
     "shortName": "ISIKC-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5468.png",
     "longName": "Isiklar Coin USD",
-    "price": "0.321482"
+    "price": "0.322204"
   },
   {
     "shortName": "KIN-USD",
@@ -4299,37 +4299,37 @@
     "shortName": "FT21356-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/21356.png",
     "longName": "FractonX USD",
-    "price": "0.365834"
+    "price": "0.366054"
   },
   {
     "shortName": "COMBO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4275.png",
     "longName": "COMBO USD",
-    "price": "0.449483"
+    "price": "0.451286"
   },
   {
     "shortName": "TRAC25208-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/25208.png",
     "longName": "trac (Ordinals) USD",
-    "price": "1.5193"
+    "price": "1.5184"
   },
   {
     "shortName": "GRS-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/258.png",
     "longName": "Groestlcoin USD",
-    "price": "0.369803"
+    "price": "0.373587"
   },
   {
     "shortName": "BSW-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/10746.png",
     "longName": "Biswap USD",
-    "price": "0.061539"
+    "price": "0.061551"
   },
   {
     "shortName": "CONX28135-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/28135.png",
     "longName": "Connex USD",
-    "price": "27.06"
+    "price": "27.05"
   },
   {
     "shortName": "KISHU-USD",
@@ -4341,19 +4341,19 @@
     "shortName": "OG-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/5309.png",
     "longName": "OG Fan Token USD",
-    "price": "7.1178"
+    "price": "7.1254"
   },
   {
     "shortName": "WXT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/4090.png",
     "longName": "Wirex Token USD",
-    "price": "0.003102"
+    "price": "0.003116"
   },
   {
     "shortName": "IDEX-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/3928.png",
     "longName": "IDEX USD",
-    "price": "0.038224"
+    "price": "0.038211"
   },
   {
     "shortName": "BRISE-USD",
@@ -4365,25 +4365,25 @@
     "shortName": "MDT-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/2348.png",
     "longName": "Measurable Data Token USD",
-    "price": "0.045085"
+    "price": "0.045133"
   },
   {
     "shortName": "DIMO-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/22837.png",
     "longName": "DIMO USD",
-    "price": "0.125771"
+    "price": "0.125785"
   },
   {
     "shortName": "COMAI-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/29509.png",
     "longName": "Commune AI USD",
-    "price": "0.299426"
+    "price": "0.300018"
   },
   {
     "shortName": "WELSH-USD",
     "img": "https://s2.coinmarketcap.com/static/img/coins/64x64/29079.png",
     "longName": "Welshcorgicoin USD",
-    "price": "0.003007"
+    "price": "0.003019"
   },
   {
     "shortName": "RLY-USD",

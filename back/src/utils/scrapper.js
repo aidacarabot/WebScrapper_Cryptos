@@ -6,69 +6,63 @@ const Crypto = require("../api/models/cryptos");
 const dataPath = "cryptosData.json";
 const progressFile = "progress.json";
 
-let batchNumber = 0; // Declaramos el contador de lotes a nivel global
-
-// Cargar progreso guardado
+// Cargar progreso desde `progress.json` (página y lote)
 const loadProgress = () => {
   if (fs.existsSync(progressFile)) {
     const data = JSON.parse(fs.readFileSync(progressFile, "utf8"));
-    return data.lastPage || 1;
+    return {
+      lastPage: data.lastPage || 1,
+      lastBatch: data.lastBatch || 0,
+    };
   }
-  return 1;
+  return { lastPage: 1, lastBatch: 0 };
 };
 
-// Guardar progreso actual
-const saveProgress = (pageNum) => {
-  fs.writeFileSync(progressFile, JSON.stringify({ lastPage: pageNum }, null, 2));
+// Guardar progreso en `progress.json` (página y lote)
+const saveProgress = (pageNum, batchNum) => {
+  const data = {
+    lastPage: pageNum,
+    lastBatch: batchNum,
+  };
+  fs.writeFileSync(progressFile, JSON.stringify(data, null, 2));
 };
 
-// Cargar datos existentes del JSON
-const loadExistingData = () => {
-  if (fs.existsSync(dataPath)) {
-    const data = JSON.parse(fs.readFileSync(dataPath, "utf8"));
-    return Array.isArray(data) ? data : [];
-  }
-  return [];
+// Obtener el último lote guardado en MongoDB
+const getLastBatchNumberFromDB = async () => {
+  const lastCrypto = await Crypto.findOne().sort({ batchNumber: -1 }).exec();
+  return lastCrypto?.batchNumber || 0;
 };
 
-// Actualizar el JSON sin duplicados
-const updateJsonFile = (newData) => {
-  const existingData = loadExistingData();
-  const dataMap = new Map(existingData.map((crypto) => [crypto.shortName, crypto]));
-  newData.forEach((crypto) => dataMap.set(crypto.shortName, crypto));
-  const updatedData = Array.from(dataMap.values());
-  fs.writeFileSync(dataPath, JSON.stringify(updatedData, null, 2));
-};
-
-// Retardo entre lotes
-const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
-
-// Subir los datos a MongoDB en lotes
-const saveToMongoDB = async (data) => {
+// Guardar criptomonedas en MongoDB sin duplicados
+const saveToMongoDB = async (data, batchNumber) => {
   const batchSize = 100;
-  
+
   for (let i = 0; i < data.length; i += batchSize) {
-    const batch = data.slice(i, i + batchSize);
-    const operations = batch.map((crypto) => ({
-      updateOne: {
-        filter: { shortName: crypto.shortName },
-        update: { $set: crypto },
-        upsert: true,
-      },
+    const batch = data.slice(i, i + batchSize).map((crypto) => ({
+      ...crypto,
+      batchNumber, // Asignar el número del lote al documento
     }));
 
     try {
+      const operations = batch.map((crypto) => ({
+        updateOne: {
+          filter: { shortName: crypto.shortName },
+          update: { $set: crypto },
+          upsert: true,
+        },
+      }));
+
       await Crypto.bulkWrite(operations, { ordered: false, maxTimeMS: 60000 });
-      batchNumber++; // Incrementamos el número del lote globalmente
       console.log(`Lote ${batchNumber} guardado en MongoDB.`);
-      await delay(500); // Retardo entre lotes
+      batchNumber++; // Incrementar el número del lote
     } catch (error) {
       console.error(`Error guardando lote ${batchNumber}:`, error);
     }
   }
+  return batchNumber; // Devolver el último número de lote usado
 };
 
-// Scraping de una página
+// Scraping de una página específica
 const scrapePage = async (page) => {
   return await page.evaluate(() => {
     const cryptos = [];
@@ -109,23 +103,28 @@ const goToNextPage = async (page) => {
 const scrapper = async (url, totalPages = 9956) => {
   const browser = await puppeteer.launch({ headless: true });
   const page = await browser.newPage();
-  let currentPage = loadProgress();
 
-  console.log(`Reanudando scraping desde la página ${currentPage}`);
+  const progress = loadProgress(); // Cargar progreso desde progress.json
+  let { lastPage, lastBatch } = progress;
+
+  console.log(`Reanudando scraping desde la página ${lastPage} y lote ${lastBatch}`);
+  
+  const lastBatchInDB = await getLastBatchNumberFromDB(); // Obtener último lote en MongoDB
+  let batchNumber = Math.max(lastBatch, lastBatchInDB + 1); // Elegir el mayor entre ambos
+
   await page.goto(url, { waitUntil: "networkidle2" });
 
-  while (currentPage <= totalPages) {
+  while (lastPage <= totalPages) {
     try {
-      console.log(`Scraping página: ${currentPage}`);
+      console.log(`Scraping página: ${lastPage}`);
       const pageData = await scrapePage(page);
-      updateJsonFile(pageData); // Actualizar JSON sin duplicados
-      await saveToMongoDB(pageData); // Subir a MongoDB
-      saveProgress(currentPage); // Guardar progreso
+      batchNumber = await saveToMongoDB(pageData, batchNumber); // Guardar y actualizar lote
+      saveProgress(lastPage, batchNumber); // Guardar progreso
       const hasNextPage = await goToNextPage(page); // Ir a la siguiente página
       if (!hasNextPage) break;
-      currentPage++;
+      lastPage++;
     } catch (error) {
-      console.error(`Error en la página ${currentPage}:`, error);
+      console.error(`Error en la página ${lastPage}:`, error);
       break;
     }
   }
