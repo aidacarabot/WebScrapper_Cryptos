@@ -1,53 +1,57 @@
-body {
-  font-family: Arial, sans-serif;
+* {
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+body {
   background-color: #f0f0f0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
 
-header {
-  text-align: center;
-  padding: 20px;
-  background-color: #282c34;
-  color: white;
-}
-
-#search-input {
-  padding: 10px;
+.container {
   width: 80%;
-  margin: 20px auto;
-  display: block;
+  max-width: 800px;
+  margin: auto;
+  text-align: center;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+input {
+  width: 70%;
+  padding: 10px;
+  margin: 10px 0;
   border-radius: 5px;
   border: 1px solid #ccc;
 }
 
-.crypto-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
+button {
+  padding: 10px 20px;
+  border: none;
+  background-color: #28a745;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
 }
 
-.crypto-card {
-  background-color: white;
-  margin: 10px;
-  padding: 15px;
-  border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  width: 200px;
-  text-align: center;
+button:hover {
+  background-color: #218838;
 }
 
-.crypto-card img {
-  width: 64px;
-  height: 64px;
-}
-
-.crypto-card h2 {
-  font-size: 18px;
+#results div {
   margin: 10px 0;
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
 }
 
-.crypto-card p {
-  font-size: 16px;
-  color: #333;
+#errorMessage {
+  color: red;
+  margin: 10px 0;
 }
