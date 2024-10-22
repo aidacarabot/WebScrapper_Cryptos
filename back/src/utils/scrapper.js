@@ -1,5 +1,14 @@
 const puppeteer = require("puppeteer");
 const fs = require("fs");
+const path = "cryptosData.json"; // Ruta al archivo JSON
+
+// Elimina el archivo JSON si ya existe, para evitar datos duplicados o viejos
+const deleteExistingFile = () => {
+  if (fs.existsSync(path)) {
+    console.log("Archivo existente encontrado. Eliminando...");
+    fs.unlinkSync(path); // Elimina el archivo JSON existente
+  }
+};
 
 // Función para scrapear los datos de una sola página
 const scrapePage = async (page) => {
@@ -7,7 +16,7 @@ const scrapePage = async (page) => {
     const cryptos = [];
 
     // Seleccionamos todas las filas de criptomonedas por su clase
-    const rows = document.querySelectorAll('tr.yf-1dbt8wv.row'); 
+    const rows = document.querySelectorAll('tr.yf-1dbt8wv.row');
 
     // Iteramos sobre las filas seleccionadas
     rows.forEach((row) => {
@@ -16,34 +25,26 @@ const scrapePage = async (page) => {
       const longName = row.querySelector('span.yf-138ga19.longName')?.textContent.trim() || '';
       const price = row.querySelector('fin-streamer[data-field="regularMarketPrice"]')?.textContent.trim() || '';
 
-      // Imprime los valores de cada criptomoneda para verificar si los datos están llegando correctamente
       console.log({ img, shortName, longName, price });
 
       // Verificamos que todos los campos tengan valor antes de añadirlos
       if (img && shortName && longName && price) {
-        const crypto = {
-          shortName,
-          img,
-          longName,
-          price,
-        };
-
+        const crypto = { shortName, img, longName, price };
         cryptos.push(crypto);
       }
     });
 
-    return cryptos; // Devolvemos los datos de la página actual
+    return cryptos;
   });
 };
-
 
 // Función para pasar a la siguiente página
 const goToNextPage = async (page) => {
   try {
     const nextButton = await page.$$('button.icon-btn');
     if (nextButton && nextButton.length > 2) {
-      await nextButton[2].click(); // Hacemos clic en el tercer botón "icon-btn"
-      await new Promise(resolve => setTimeout(resolve, 3000)); // Esperamos 3 segundos
+      await nextButton[2].click(); // Clic en el tercer botón "icon-btn"
+      await new Promise((resolve) => setTimeout(resolve, 3000)); // Esperamos 3 segundos
       return true;
     }
     return false;
@@ -53,47 +54,41 @@ const goToNextPage = async (page) => {
   }
 };
 
-// Función para escribir los datos en el archivo JSON conforme se scrapea
-const writeDataToFile = (data) => {
-  if (!fs.existsSync("cryptosData.json")) {
-    // Si el archivo no existe, creamos el archivo y abrimos el array
-    fs.writeFileSync("cryptosData.json", '[' + JSON.stringify(data, null, 2)); 
-  } else {
-    // Si el archivo ya existe, añadimos la nueva data (sin sobrescribir todo)
-    fs.appendFileSync("cryptosData.json", ',' + JSON.stringify(data, null, 2).slice(1, -1));
-  }
+// Función para inicializar el archivo JSON con el corchete de apertura
+const initializeFile = () => {
+  fs.writeFileSync(path, '[', 'utf8'); // Abrimos el array
+};
+
+// Función para escribir los datos en el archivo JSON sin duplicar corchetes
+const writeDataToFile = (data, isFirstPage) => {
+  const content = JSON.stringify(data, null, 2).slice(1, -1); // Quitamos los corchetes externos del JSON
+  const prefix = isFirstPage ? '' : ','; // Añadimos una coma solo si no es la primera página
+  fs.appendFileSync(path, prefix + content, 'utf8');
 };
 
 // Función principal de scraping
 const scrapper = async (url) => {
-  const browser = await puppeteer.launch({ headless: true }); // Cambiado a "headless: true" para mayor velocidad
+  deleteExistingFile(); // Eliminamos archivo anterior
+  initializeFile(); // Inicializamos el archivo con '['
+
+  const browser = await puppeteer.launch({ headless: true });
   const page = await browser.newPage();
   await page.goto(url, { waitUntil: 'networkidle2' });
 
   let isNextPageAvailable = true;
   let pageNum = 1;
 
-  // Si ya existe el archivo, lo eliminamos para evitar que se mezclen datos viejos
-  if (fs.existsSync("cryptosData.json")) {
-    fs.unlinkSync("cryptosData.json");
-  }
-
-  while (isNextPageAvailable && pageNum <= 9956) { // Recorremos hasta 9956 páginas
+  while (isNextPageAvailable && pageNum <= 9956) {
     console.log(`Scraping página: ${pageNum}`);
 
-    // Extraemos los datos de la página actual
     const pageData = await scrapePage(page);
-    
-    // Escribimos los datos de la página actual en el archivo JSON
-    writeDataToFile(pageData);
+    writeDataToFile(pageData, pageNum === 1); // Añadimos datos
 
-    // Intentamos ir a la siguiente página
     isNextPageAvailable = await goToNextPage(page);
     pageNum++;
   }
 
-  // Cerramos el array al final del proceso
-  fs.appendFileSync("cryptosData.json", ']');
+  fs.appendFileSync(path, ']', 'utf8'); // Cerramos el array al final
 
   console.log("Scraping completado.");
   await browser.close();
