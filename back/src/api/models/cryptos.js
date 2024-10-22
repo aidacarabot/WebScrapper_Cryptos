@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 const cryptoSchema = new mongoose.Schema({
-  shortName: { type: String, required: true },
+ shortName: { type: String, required: true, unique: true }, // Índice único
   longName: { type: String, required: true },
   img: { type: String, required: true },
   price: { type: String, required: true },
