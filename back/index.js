@@ -17,5 +17,7 @@ app.use("*", (req, res, next) => {
   return res.status(404).json("Route not found")
 });
 
-module.exports = app;  // Exporta la aplicación
+app.listen(3000, () => {
+  console.log("http://localhost:3000");
+});
 
