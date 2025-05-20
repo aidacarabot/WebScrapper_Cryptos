@@ -1,120 +1,119 @@
-
 # 🚀 Crypto Scraper API + Frontend
 
-Este proyecto es una API y un pequeño frontend para **scrapear datos de criptomonedas** desde Yahoo Finance, almacenarlos en **MongoDB**, y mostrarlos en una interfaz sencilla. ¡Incluye un buscador para encontrar criptomonedas rápidamente! 🪙
+This project is an API and a small frontend to **scrape cryptocurrency data** from Yahoo Finance, store it in **MongoDB**, and display it in a simple interface. It includes a search tool to quickly find cryptocurrencies! 🪙
 
 ---
 
-## 🧰 **Tecnologías Utilizadas**
+## 🧰 **Technologies Used**
 
-- **Node.js:** Entorno de ejecución para JavaScript.
-- **Express.js:** Framework para construir la API.
-- **Puppeteer:** Herramienta para hacer scraping web.
-- **MongoDB:** Base de datos NoSQL para almacenar los datos.
-- **Mongoose:** ORM para manejar la conexión y operaciones en MongoDB.
-- **HTML, CSS y JavaScript:** Frontend sencillo para interactuar con la API.
-
----
-
-## 🌟 **Características**
-
-- **Scraping Automático:** Obtiene datos en tiempo real desde [Yahoo Finance](https://finance.yahoo.com/markets/crypto/all/).
-- **Paginación y Muestra Aleatoria:** Muestra criptos aleatorias al cargar la página.
-- **Búsqueda Parcial:** Encuentra criptos con coincidencias parciales en los nombres.
-- **Almacenamiento Seguro:** Uso de `upsert` para evitar duplicados en MongoDB.
-- **Progreso Guardado:** Utiliza `progress.json` para reanudar el scraping desde donde se interrumpió.
+- **Node.js:** JavaScript runtime environment.
+- **Express.js:** Framework to build the API.
+- **Puppeteer:** Tool for web scraping.
+- **MongoDB:** NoSQL database to store data.
+- **Mongoose:** ORM to manage the MongoDB connection and operations.
+- **HTML, CSS, and JavaScript:** Simple frontend to interact with the API.
 
 ---
 
-## 📁 **Estructura del Proyecto**
+## 🌟 **Features**
+
+- **Automatic Scraping:** Fetches real-time data from [Yahoo Finance](https://finance.yahoo.com/markets/crypto/all/).
+- **Pagination and Random Display:** Shows random cryptos when the page loads.
+- **Partial Search:** Finds cryptos with partial matches in their names.
+- **Safe Storage:** Uses `upsert` to avoid duplicates in MongoDB.
+- **Saved Progress:** Uses `progress.json` to resume scraping from where it stopped.
+
+---
+
+## 📁 **Project Structure**
 
 ```
 /backend
  ├── /src
  │    ├── /api
  │    │    ├── /controllers
- │    │    │    └── cryptos.js  // Controladores de la API
+ │    │    │    └── cryptos.js  // API controllers
  │    │    ├── /models
- │    │    │    └── cryptos.js  // Modelo de Mongoose
+ │    │    │    └── cryptos.js  // Mongoose model
  │    │    └── /routes
- │    │         └── cryptos.js  // Rutas de la API
+ │    │         └── cryptos.js  // API routes
  │    ├── /config
- │    │    └── db.js  // Conexión a MongoDB
+ │    │    └── db.js  // MongoDB connection
  │    ├── /utils
- │    │    ├── scrapper.js  // Lógica del scrapper
- │    │    └── scrapperLaunch.js  // Inicialización del scrapper
- │    └── index.js  // Punto de entrada de la API
+ │    │    ├── scrapper.js  // Scraper logic
+ │    │    └── scrapperLaunch.js  // Scraper initialization
+ │    └── index.js  // API entry point
 
 /frontend
- ├── index.html  // Interfaz de usuario
- ├── style.css  // Estilos del frontend
- └── main.js  // Lógica del frontend
+ ├── index.html  // User interface
+ ├── style.css  // Frontend styles
+ └── main.js  // Frontend logic
 ```
 
 ---
 
-## 🔧 **Instrucciones de Instalación y Ejecución**
+## 🔧 **Installation and Running Instructions**
 
-### **1. Clonar el Repositorio**
+### **1. Clone the Repository**
 
 ```bash
-git clone <tu-repositorio>
-cd <tu-repositorio>
+git clone <your-repository>
+cd <your-repository>
 ```
 
-### **2. Configurar Variables de Entorno**
+### **2. Configure Environment Variables**
 
-Crea un archivo `.env` en la raíz del proyecto con el siguiente contenido:
+Create a `.env` file in the project root with the following content:
 
 ```
-DB_URL=mongodb+srv://<usuario>:<contraseña>@cluster0.mongodb.net/miBaseDeDatos?retryWrites=true&w=majority
+DB_URL=mongodb+srv://<username>:<password>@cluster0.mongodb.net/myDatabase?retryWrites=true&w=majority
 ```
 
-### **3. Instalar Dependencias**
+### **3. Install Dependencies**
 
 ```bash
 cd backend
 npm install
 ```
 
-### **4. Iniciar el Scraper**
+### **4. Start the Scraper**
 
 ```bash
 npm run scrap
 ```
 
-### **5. Iniciar la API**
+### **5. Start the API**
 
 ```bash
 npm run dev
 ```
 
-### **6. Iniciar el Frontend**
+### **6. Start the Frontend**
 
-Abre el archivo `index.html` en tu navegador para usar la interfaz.
+Open the `index.html` file in your browser to use the interface.
 
 ---
 
-## 🔍 **Endpoints de la API**
+## 🔍 **API Endpoints**
 
-### **1. Obtener Criptos Aleatorias**
+### **1. Get Random Cryptos**
 - **URL:** `/api/v1/cryptos/get`
-- **Método:** `GET`
-- **Descripción:** Devuelve un conjunto aleatorio de criptomonedas.
-- **Ejemplo de Solicitud:**
+- **Method:** `GET`
+- **Description:** Returns a random set of cryptocurrencies.
+- **Request Example:**
   ```http
   GET http://localhost:3000/api/v1/cryptos/get?limit=10
   ```
 
-### **2. Buscar Cripto por Nombre**
+### **2. Search Crypto by Name**
 - **URL:** `/api/v1/cryptos/search`
-- **Método:** `GET`
-- **Query Parameter:** `name` – Nombre parcial o completo de la cripto.
-- **Ejemplo de Solicitud:**
+- **Method:** `GET`
+- **Query Parameter:** `name` – Partial or full crypto name.
+- **Request Example:**
   ```http
   GET http://localhost:3000/api/v1/cryptos/search?name=bitcoin
   ```
-- **Ejemplo de Respuesta:**
+- **Response Example:**
   ```json
   [
     {
@@ -131,33 +130,33 @@ Abre el archivo `index.html` en tu navegador para usar la interfaz.
 
 ---
 
-## 🖥️ **Uso del Frontend**
+## 🖥️ **Frontend Usage**
 
-1. Al cargar la página, se mostrarán **criptos aleatorias**.
-2. Usa el **campo de búsqueda** para buscar criptos por nombre.
-3. Si no se encuentran resultados, se mostrará un mensaje indicando que no hay coincidencias.
-
----
-
-## ⚠️ **Cómo se Evitan Duplicados**
-
-- **MongoDB:** Usamos `upsert` en las operaciones para actualizar documentos existentes o insertarlos si no están presentes.
-- **JSON Local:** Usamos un `Map` para evitar duplicados en `cryptosData.json`.
+1. On page load, **random cryptos** are displayed.
+2. Use the **search field** to find cryptos by name.
+3. If no results are found, a message will indicate no matches.
 
 ---
 
-## 👨‍💻 **Autor**
+## ⚠️ **How Duplicates Are Avoided**
 
-Desarrollado por [Tu Nombre].
-
----
-
-## 🎉 **Contribuciones**
-
-¡Las contribuciones son bienvenidas! Si encuentras algún problema o tienes sugerencias, no dudes en abrir un **issue** o enviar un **pull request**.
+- **MongoDB:** Uses `upsert` in operations to update existing documents or insert them if not present.
+- **Local JSON:** Uses a `Map` to avoid duplicates in `cryptosData.json`.
 
 ---
 
-## 📄 **Licencia**
+## 👨‍💻 **Author**
 
-Este proyecto está bajo la Licencia MIT. 
+Developed by [Your Name].
+
+---
+
+## 🎉 **Contributions**
+
+Contributions are welcome! If you find any issues or have suggestions, feel free to open an **issue** or submit a **pull request**.
+
+---
+
+## 📄 **License**
+
+This project is licensed under the MIT License.
